@@ -2,6 +2,7 @@
 
 import Image from 'next/image';
 import Link from 'next/link';
+import { useParams } from 'react-router-dom';
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
 import { toast } from 'sonner';
 import { ArrowLeft, CheckCircle2, Circle, Truck } from 'lucide-react';
@@ -13,8 +14,8 @@ import { Button } from '@/components/ui/button';
 import { Skeleton } from '@/components/ui/skeleton';
 import { cn, formatCurrency, formatDateTime } from '@/lib/utils';
 
-export default function OrderDetailPage({ params }: { params: { id: string } }): JSX.Element {
-  const { id } = params;
+export default function OrderDetailPage(): JSX.Element {
+  const { id = '' } = useParams<{ id: string }>();
   const qc = useQueryClient();
   const { data: order, isLoading } = useQuery({
     queryKey: ['orders', id],

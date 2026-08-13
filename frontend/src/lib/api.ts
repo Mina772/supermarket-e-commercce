@@ -70,7 +70,7 @@ export const api = {
       post('/auth/change-password', b),
   },
   products: {
-    list: (q: ProductQuery = {}) => getList<Product>(`/products${buildQueryString(q)}`),
+    list: (q: ProductQuery = {}) => getList<Product>(`/products${buildQueryString(q as Record<string, string | number | null | undefined>)}`),
     detail: (idOrSlug: string) => get<Product>(`/products/${idOrSlug}`),
     featured: (limit = 12) => get<Product[]>(`/products/featured?limit=${limit}`),
     bestSellers: (limit = 12) => get<Product[]>(`/products/best-sellers?limit=${limit}`),

@@ -1,7 +1,7 @@
 import axios, { AxiosError, AxiosInstance, AxiosRequestConfig } from 'axios';
 import type { ApiEnvelope } from '@/types';
 
-const BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api/v1';
+const BASE_URL = '/api/v1';
 
 /** In-memory access token (refresh token lives in an httpOnly cookie). */
 let accessToken: string | null = null;
