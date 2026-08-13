@@ -1,0 +1,6840 @@
+{
+"categories": [
+{
+"name": "Fruits & Vegetables",
+"description": "Fresh produce, fruits and vegetables",
+"icon": "\ud83e\udd66",
+"isFeatured": true
+},
+{
+"name": "Dairy & Eggs",
+"description": "Milk, cheese, butter, yogurt and eggs",
+"icon": "\ud83e\udd5b",
+"isFeatured": true
+},
+{
+"name": "Bakery",
+"description": "Fresh bread, pastries and baked goods",
+"icon": "\ud83e\udd50",
+"isFeatured": true
+},
+{
+"name": "Meat & Seafood",
+"description": "Fresh and frozen meat, poultry and fish",
+"icon": "\ud83e\udd69",
+"isFeatured": true
+},
+{
+"name": "Beverages",
+"description": "Water, juices, soft drinks and more",
+"icon": "\ud83e\uddc3",
+"isFeatured": true
+},
+{
+"name": "Snacks & Sweets",
+"description": "Chips, chocolate, biscuits and candy",
+"icon": "\ud83c\udf6b",
+"isFeatured": true
+},
+{
+"name": "Pantry Staples",
+"description": "Rice, pasta, oil, canned goods",
+"icon": "\ud83e\uded9",
+"isFeatured": true
+},
+{
+"name": "Breakfast & Cereal",
+"description": "Cereal, oats, spreads and jams",
+"icon": "\ud83e\udd63",
+"isFeatured": true
+},
+{
+"name": "Frozen Foods",
+"description": "Frozen meals, vegetables and ice cream",
+"icon": "\ud83e\uddca",
+"isFeatured": false
+},
+{
+"name": "Household & Cleaning",
+"description": "Detergents, cleaners and paper goods",
+"icon": "\ud83e\uddfd",
+"isFeatured": false
+},
+{
+"name": "Health & Beauty",
+"description": "Personal care and wellness",
+"icon": "\ud83e\uddf4",
+"isFeatured": false
+},
+{
+"name": "Baby & Kids",
+"description": "Baby food, diapers and care",
+"icon": "\ud83c\udf7c",
+"isFeatured": false
+}
+],
+"brands": [
+{
+"name": "Nestle",
+"isFeatured": true
+},
+{
+"name": "Coca-Cola",
+"isFeatured": true
+},
+{
+"name": "PepsiCo",
+"isFeatured": true
+},
+{
+"name": "Danone",
+"isFeatured": true
+},
+{
+"name": "Kelloggs",
+"isFeatured": true
+},
+{
+"name": "Heinz",
+"isFeatured": true
+},
+{
+"name": "Nescafe",
+"isFeatured": true
+},
+{
+"name": "Lipton",
+"isFeatured": true
+},
+{
+"name": "Barilla",
+"isFeatured": true
+},
+{
+"name": "Dole",
+"isFeatured": true
+},
+{
+"name": "Chiquita",
+"isFeatured": false
+},
+{
+"name": "Lurpak",
+"isFeatured": false
+},
+{
+"name": "President",
+"isFeatured": false
+},
+{
+"name": "Philadelphia",
+"isFeatured": false
+},
+{
+"name": "Oreo",
+"isFeatured": false
+},
+{
+"name": "Pringles",
+"isFeatured": false
+},
+{
+"name": "Lays",
+"isFeatured": false
+},
+{
+"name": "Cadbury",
+"isFeatured": false
+},
+{
+"name": "Ferrero",
+"isFeatured": false
+},
+{
+"name": "Red Bull",
+"isFeatured": false
+},
+{
+"name": "Evian",
+"isFeatured": false
+},
+{
+"name": "Tropicana",
+"isFeatured": false
+},
+{
+"name": "Quaker",
+"isFeatured": false
+},
+{
+"name": "Knorr",
+"isFeatured": false
+},
+{
+"name": "Maggi",
+"isFeatured": false
+},
+{
+"name": "Hellmanns",
+"isFeatured": false
+},
+{
+"name": "Kinder",
+"isFeatured": false
+},
+{
+"name": "Milka",
+"isFeatured": false
+},
+{
+"name": "Activia",
+"isFeatured": false
+},
+{
+"name": "Actimel",
+"isFeatured": false
+},
+{
+"name": "Sunbulah",
+"isFeatured": false
+},
+{
+"name": "Almarai",
+"isFeatured": false
+},
+{
+"name": "Juhayna",
+"isFeatured": false
+},
+{
+"name": "Dettol",
+"isFeatured": false
+},
+{
+"name": "Fairy",
+"isFeatured": false
+},
+{
+"name": "Ariel",
+"isFeatured": false
+},
+{
+"name": "Pampers",
+"isFeatured": false
+},
+{
+"name": "Johnsons",
+"isFeatured": false
+},
+{
+"name": "Colgate",
+"isFeatured": false
+},
+{
+"name": "Dove",
+"isFeatured": false
+}
+],
+"products": [
+{
+"name": "Bananas",
+"sku": "SKU-1001",
+"barcode": "6814655221101",
+"categoryName": "Fruits & Vegetables",
+"brandName": "Lipton",
+"description": "Bananas from Lipton. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lipton Bananas - premium quality.",
+"price": 2.17,
+"compareAtPrice": 2.5,
+"discountPercentage": 10,
+"unit": "kg",
+"weight": 1.8,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15149897?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Bananas",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15149897?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Bananas",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15149897?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Bananas",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15149897?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 61,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"lipton",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 109,
+"fat": 17.7,
+"carbohydrates": 2.2,
+"sugars": 3.7,
+"protein": 5.8,
+"salt": 1.81
+},
+"rating": 3.9,
+"reviewCount": 146,
+"soldCount": 1149,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Red Apples",
+"sku": "SKU-1002",
+"barcode": "6888022315787",
+"categoryName": "Fruits & Vegetables",
+"brandName": "Fairy",
+"description": "Red Apples from Fairy. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Fairy Red Apples - premium quality.",
+"price": 17.44,
+"compareAtPrice": 22.67,
+"discountPercentage": 25,
+"unit": "kg",
+"weight": 0.4,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15652155?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Red Apples",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15652155?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Red Apples",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15652155?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Red Apples",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15652155?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 12,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"fairy",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 452,
+"fat": 10.2,
+"carbohydrates": 10.9,
+"sugars": 38.3,
+"protein": 8.4,
+"salt": 0.28
+},
+"rating": 4.4,
+"reviewCount": 832,
+"soldCount": 198,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Fresh Tomatoes",
+"sku": "SKU-1003",
+"barcode": "6324493543665",
+"categoryName": "Fruits & Vegetables",
+"brandName": "PepsiCo",
+"description": "Fresh Tomatoes from PepsiCo. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "PepsiCo Fresh Tomatoes - premium quality.",
+"price": 29.44,
+"compareAtPrice": 39.74,
+"discountPercentage": 30,
+"unit": "kg",
+"weight": 1.68,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15548283?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Fresh Tomatoes",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15548283?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Fresh Tomatoes",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15548283?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Fresh Tomatoes",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15548283?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 49,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"pepsico",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 390,
+"fat": 17.3,
+"carbohydrates": 49.3,
+"sugars": 1.8,
+"protein": 5.7,
+"salt": 0.87
+},
+"rating": 3.8,
+"reviewCount": 391,
+"soldCount": 163,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Baby Spinach",
+"sku": "SKU-1004",
+"barcode": "6294936156580",
+"categoryName": "Fruits & Vegetables",
+"brandName": "Actimel",
+"description": "Baby Spinach from Actimel. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Actimel Baby Spinach - premium quality.",
+"price": 25.8,
+"compareAtPrice": 30.96,
+"discountPercentage": 15,
+"unit": "kg",
+"weight": 1.43,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15312373?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Baby Spinach",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15312373?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Baby Spinach",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15312373?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Baby Spinach",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15312373?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 116,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"actimel",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 93,
+"fat": 18.3,
+"carbohydrates": 12.0,
+"sugars": 29.2,
+"protein": 4.1,
+"salt": 1.14
+},
+"rating": 3.8,
+"reviewCount": 367,
+"soldCount": 1895,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Avocado",
+"sku": "SKU-1005",
+"barcode": "6293780765787",
+"categoryName": "Fruits & Vegetables",
+"brandName": "Evian",
+"description": "Avocado from Evian. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Evian Avocado - premium quality.",
+"price": 33.82,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "kg",
+"weight": 0.23,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15830662?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Avocado",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15830662?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Avocado",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15830662?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Avocado",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15830662?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 170,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"evian",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 342,
+"fat": 6.4,
+"carbohydrates": 34.9,
+"sugars": 35.4,
+"protein": 16.1,
+"salt": 0.43
+},
+"rating": 3.9,
+"reviewCount": 36,
+"soldCount": 285,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Carrots",
+"sku": "SKU-1006",
+"barcode": "6154608246768",
+"categoryName": "Fruits & Vegetables",
+"brandName": "Lays",
+"description": "Carrots from Lays. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lays Carrots - premium quality.",
+"price": 30.11,
+"compareAtPrice": 37.64,
+"discountPercentage": 20,
+"unit": "kg",
+"weight": 1.07,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15873710?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Carrots",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15873710?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Carrots",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15873710?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Carrots",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15873710?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 194,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"lays",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 113,
+"fat": 22.7,
+"carbohydrates": 60.3,
+"sugars": 6.1,
+"protein": 4.0,
+"salt": 2.04
+},
+"rating": 4.9,
+"reviewCount": 412,
+"soldCount": 1221,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Strawberries",
+"sku": "SKU-1007",
+"barcode": "6973590532631",
+"categoryName": "Fruits & Vegetables",
+"brandName": "Dettol",
+"description": "Strawberries from Dettol. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dettol Strawberries - premium quality.",
+"price": 10.93,
+"compareAtPrice": 14.76,
+"discountPercentage": 30,
+"unit": "kg",
+"weight": 1.12,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15142058?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Strawberries",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15142058?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Strawberries",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15142058?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Strawberries",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15142058?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 67,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"dettol",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 293,
+"fat": 23.1,
+"carbohydrates": 23.8,
+"sugars": 11.7,
+"protein": 4.0,
+"salt": 0.01
+},
+"rating": 4.8,
+"reviewCount": 15,
+"soldCount": 1478,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Broccoli",
+"sku": "SKU-1008",
+"barcode": "6217363871943",
+"categoryName": "Fruits & Vegetables",
+"brandName": "Lurpak",
+"description": "Broccoli from Lurpak. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lurpak Broccoli - premium quality.",
+"price": 20.85,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "kg",
+"weight": 0.39,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15946205?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Broccoli",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15946205?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Broccoli",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15946205?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Broccoli",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15946205?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 268,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"lurpak",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 185,
+"fat": 16.2,
+"carbohydrates": 54.5,
+"sugars": 21.2,
+"protein": 0.0,
+"salt": 0.97
+},
+"rating": 4.8,
+"reviewCount": 309,
+"soldCount": 39,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Seedless Grapes",
+"sku": "SKU-1009",
+"barcode": "6535719463887",
+"categoryName": "Fruits & Vegetables",
+"brandName": "Red Bull",
+"description": "Seedless Grapes from Red Bull. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Red Bull Seedless Grapes - premium quality.",
+"price": 10.47,
+"compareAtPrice": 11.52,
+"discountPercentage": 5,
+"unit": "kg",
+"weight": 1.65,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15916734?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Seedless Grapes",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15916734?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Seedless Grapes",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15916734?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Seedless Grapes",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15916734?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 52,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"red bull",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 148,
+"fat": 3.9,
+"carbohydrates": 33.3,
+"sugars": 22.0,
+"protein": 6.6,
+"salt": 2.62
+},
+"rating": 4.8,
+"reviewCount": 84,
+"soldCount": 866,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Bell Peppers",
+"sku": "SKU-1010",
+"barcode": "6989724103585",
+"categoryName": "Fruits & Vegetables",
+"brandName": "President",
+"description": "Bell Peppers from President. Premium quality fruits & vegetables sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "President Bell Peppers - premium quality.",
+"price": 28.79,
+"compareAtPrice": 35.99,
+"discountPercentage": 20,
+"unit": "kg",
+"weight": 1.08,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15731989?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Bell Peppers",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15731989?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Bell Peppers",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15731989?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Bell Peppers",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15731989?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 200,
+"lowStockThreshold": 10,
+"tags": [
+"fruits",
+"president",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 143,
+"fat": 7.4,
+"carbohydrates": 4.5,
+"sugars": 0.8,
+"protein": 13.8,
+"salt": 1.77
+},
+"rating": 5.0,
+"reviewCount": 669,
+"soldCount": 14,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Whole Milk 1L",
+"sku": "SKU-1011",
+"barcode": "6593625626938",
+"categoryName": "Dairy & Eggs",
+"brandName": "PepsiCo",
+"description": "Whole Milk 1L from PepsiCo. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "PepsiCo Whole Milk 1L - premium quality.",
+"price": 34.47,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 0.35,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15509652?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Whole Milk 1L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15509652?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Whole Milk 1L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15509652?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Whole Milk 1L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15509652?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 257,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"pepsico",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 504,
+"fat": 7.3,
+"carbohydrates": 33.1,
+"sugars": 16.3,
+"protein": 2.4,
+"salt": 1.98
+},
+"rating": 4.3,
+"reviewCount": 289,
+"soldCount": 725,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Greek Yogurt",
+"sku": "SKU-1012",
+"barcode": "6948331323761",
+"categoryName": "Dairy & Eggs",
+"brandName": "Danone",
+"description": "Greek Yogurt from Danone. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Danone Greek Yogurt - premium quality.",
+"price": 27.26,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 0.31,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15135330?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Greek Yogurt",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15135330?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Greek Yogurt",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15135330?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Greek Yogurt",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15135330?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 182,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"danone",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 216,
+"fat": 5.7,
+"carbohydrates": 31.4,
+"sugars": 16.9,
+"protein": 7.0,
+"salt": 0.75
+},
+"rating": 3.7,
+"reviewCount": 749,
+"soldCount": 1890,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Cheddar Cheese Block",
+"sku": "SKU-1013",
+"barcode": "6447390899554",
+"categoryName": "Dairy & Eggs",
+"brandName": "Ariel",
+"description": "Cheddar Cheese Block from Ariel. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ariel Cheddar Cheese Block - premium quality.",
+"price": 4.99,
+"compareAtPrice": 6.74,
+"discountPercentage": 30,
+"unit": "pack",
+"weight": 1.02,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15191895?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Cheddar Cheese Block",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15191895?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Cheddar Cheese Block",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15191895?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Cheddar Cheese Block",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15191895?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 130,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"ariel",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 238,
+"fat": 25.9,
+"carbohydrates": 63.2,
+"sugars": 6.6,
+"protein": 0.1,
+"salt": 1.17
+},
+"rating": 4.8,
+"reviewCount": 99,
+"soldCount": 1897,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Salted Butter",
+"sku": "SKU-1014",
+"barcode": "6064290117190",
+"categoryName": "Dairy & Eggs",
+"brandName": "Ariel",
+"description": "Salted Butter from Ariel. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ariel Salted Butter - premium quality.",
+"price": 26.81,
+"compareAtPrice": 34.85,
+"discountPercentage": 25,
+"unit": "pack",
+"weight": 1.2,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15871236?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Salted Butter",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15871236?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Salted Butter",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15871236?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Salted Butter",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15871236?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 120,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"ariel",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 82,
+"fat": 22.4,
+"carbohydrates": 4.0,
+"sugars": 23.4,
+"protein": 12.6,
+"salt": 2.56
+},
+"rating": 3.8,
+"reviewCount": 307,
+"soldCount": 322,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Free-Range Eggs 12pk",
+"sku": "SKU-1015",
+"barcode": "6655321467395",
+"categoryName": "Dairy & Eggs",
+"brandName": "Kelloggs",
+"description": "Free-Range Eggs 12pk from Kelloggs. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Kelloggs Free-Range Eggs 12pk - premium quality.",
+"price": 24.23,
+"compareAtPrice": 26.65,
+"discountPercentage": 5,
+"unit": "pack",
+"weight": 0.18,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15779153?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Free-Range Eggs 12pk",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15779153?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Free-Range Eggs 12pk",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15779153?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Free-Range Eggs 12pk",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15779153?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 135,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"kelloggs",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 103,
+"fat": 12.6,
+"carbohydrates": 40.9,
+"sugars": 20.9,
+"protein": 23.4,
+"salt": 0.61
+},
+"rating": 4.2,
+"reviewCount": 587,
+"soldCount": 1466,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Mozzarella",
+"sku": "SKU-1016",
+"barcode": "6502551183219",
+"categoryName": "Dairy & Eggs",
+"brandName": "Barilla",
+"description": "Mozzarella from Barilla. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Barilla Mozzarella - premium quality.",
+"price": 27.19,
+"compareAtPrice": 31.27,
+"discountPercentage": 10,
+"unit": "pack",
+"weight": 1.28,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15537998?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Mozzarella",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15537998?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Mozzarella",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15537998?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Mozzarella",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15537998?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 46,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"barilla",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 122,
+"fat": 2.2,
+"carbohydrates": 14.9,
+"sugars": 10.6,
+"protein": 23.3,
+"salt": 2.64
+},
+"rating": 4.2,
+"reviewCount": 773,
+"soldCount": 1800,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Cream Cheese",
+"sku": "SKU-1017",
+"barcode": "6730178040304",
+"categoryName": "Dairy & Eggs",
+"brandName": "Activia",
+"description": "Cream Cheese from Activia. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Activia Cream Cheese - premium quality.",
+"price": 33.47,
+"compareAtPrice": 38.49,
+"discountPercentage": 10,
+"unit": "pack",
+"weight": 1.65,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15948767?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Cream Cheese",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15948767?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Cream Cheese",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15948767?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Cream Cheese",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15948767?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 279,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"activia",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 326,
+"fat": 28.0,
+"carbohydrates": 7.3,
+"sugars": 35.1,
+"protein": 6.6,
+"salt": 2.67
+},
+"rating": 4.5,
+"reviewCount": 830,
+"soldCount": 1520,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Fresh Cream",
+"sku": "SKU-1018",
+"barcode": "6539041627377",
+"categoryName": "Dairy & Eggs",
+"brandName": "Colgate",
+"description": "Fresh Cream from Colgate. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Colgate Fresh Cream - premium quality.",
+"price": 9.35,
+"compareAtPrice": 11.22,
+"discountPercentage": 15,
+"unit": "pack",
+"weight": 0.58,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15583470?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Fresh Cream",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15583470?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Fresh Cream",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15583470?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Fresh Cream",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15583470?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 144,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"colgate",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 72,
+"fat": 2.8,
+"carbohydrates": 29.7,
+"sugars": 11.1,
+"protein": 0.1,
+"salt": 2.31
+},
+"rating": 3.9,
+"reviewCount": 653,
+"soldCount": 1304,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Skimmed Milk 1L",
+"sku": "SKU-1019",
+"barcode": "6974721571747",
+"categoryName": "Dairy & Eggs",
+"brandName": "Activia",
+"description": "Skimmed Milk 1L from Activia. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Activia Skimmed Milk 1L - premium quality.",
+"price": 22.55,
+"compareAtPrice": 28.19,
+"discountPercentage": 20,
+"unit": "pack",
+"weight": 1.41,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15369797?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Skimmed Milk 1L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15369797?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Skimmed Milk 1L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15369797?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Skimmed Milk 1L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15369797?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 47,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"activia",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 172,
+"fat": 16.4,
+"carbohydrates": 58.4,
+"sugars": 23.3,
+"protein": 3.7,
+"salt": 0.38
+},
+"rating": 4.4,
+"reviewCount": 118,
+"soldCount": 631,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Cottage Cheese",
+"sku": "SKU-1020",
+"barcode": "6856217530058",
+"categoryName": "Dairy & Eggs",
+"brandName": "PepsiCo",
+"description": "Cottage Cheese from PepsiCo. Premium quality dairy & eggs sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "PepsiCo Cottage Cheese - premium quality.",
+"price": 35.99,
+"compareAtPrice": 39.59,
+"discountPercentage": 5,
+"unit": "pack",
+"weight": 1.16,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15975691?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Cottage Cheese",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15975691?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Cottage Cheese",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15975691?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Cottage Cheese",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15975691?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 61,
+"lowStockThreshold": 10,
+"tags": [
+"dairy",
+"pepsico",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 436,
+"fat": 29.2,
+"carbohydrates": 52.5,
+"sugars": 37.0,
+"protein": 5.9,
+"salt": 0.49
+},
+"rating": 4.6,
+"reviewCount": 686,
+"soldCount": 1638,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Sourdough Loaf",
+"sku": "SKU-1021",
+"barcode": "6172944613643",
+"categoryName": "Bakery",
+"brandName": "Coca-Cola",
+"description": "Sourdough Loaf from Coca-Cola. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Coca-Cola Sourdough Loaf - premium quality.",
+"price": 8.14,
+"compareAtPrice": 9.77,
+"discountPercentage": 15,
+"unit": "piece",
+"weight": 1.6,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15488486?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Sourdough Loaf",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15488486?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Sourdough Loaf",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15488486?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Sourdough Loaf",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15488486?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 136,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"coca-cola",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 130,
+"fat": 11.5,
+"carbohydrates": 2.7,
+"sugars": 18.8,
+"protein": 5.0,
+"salt": 2.76
+},
+"rating": 4.7,
+"reviewCount": 425,
+"soldCount": 716,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Croissant 4pk",
+"sku": "SKU-1022",
+"barcode": "6850261314384",
+"categoryName": "Bakery",
+"brandName": "Oreo",
+"description": "Croissant 4pk from Oreo. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Oreo Croissant 4pk - premium quality.",
+"price": 9.83,
+"compareAtPrice": 10.81,
+"discountPercentage": 5,
+"unit": "piece",
+"weight": 0.63,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15460747?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Croissant 4pk",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15460747?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Croissant 4pk",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15460747?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Croissant 4pk",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15460747?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 44,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"oreo",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 429,
+"fat": 20.4,
+"carbohydrates": 59.1,
+"sugars": 13.2,
+"protein": 0.7,
+"salt": 2.63
+},
+"rating": 4.2,
+"reviewCount": 289,
+"soldCount": 534,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Whole Wheat Bread",
+"sku": "SKU-1023",
+"barcode": "6667594228337",
+"categoryName": "Bakery",
+"brandName": "Lays",
+"description": "Whole Wheat Bread from Lays. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lays Whole Wheat Bread - premium quality.",
+"price": 2.68,
+"compareAtPrice": 3.35,
+"discountPercentage": 20,
+"unit": "piece",
+"weight": 1.97,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15409105?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Whole Wheat Bread",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15409105?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Whole Wheat Bread",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15409105?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Whole Wheat Bread",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15409105?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 169,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"lays",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 138,
+"fat": 11.6,
+"carbohydrates": 40.4,
+"sugars": 10.2,
+"protein": 17.7,
+"salt": 0.01
+},
+"rating": 4.1,
+"reviewCount": 809,
+"soldCount": 1895,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Baguette",
+"sku": "SKU-1024",
+"barcode": "6934857130726",
+"categoryName": "Bakery",
+"brandName": "President",
+"description": "Baguette from President. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "President Baguette - premium quality.",
+"price": 15.3,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "piece",
+"weight": 0.34,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15548660?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Baguette",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15548660?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Baguette",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15548660?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Baguette",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15548660?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 169,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"president",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 327,
+"fat": 15.2,
+"carbohydrates": 46.7,
+"sugars": 13.0,
+"protein": 17.4,
+"salt": 1.66
+},
+"rating": 4.9,
+"reviewCount": 342,
+"soldCount": 392,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Chocolate Muffins",
+"sku": "SKU-1025",
+"barcode": "6228865551724",
+"categoryName": "Bakery",
+"brandName": "Lurpak",
+"description": "Chocolate Muffins from Lurpak. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lurpak Chocolate Muffins - premium quality.",
+"price": 25.02,
+"compareAtPrice": 28.77,
+"discountPercentage": 10,
+"unit": "piece",
+"weight": 0.92,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15143079?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Chocolate Muffins",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15143079?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Chocolate Muffins",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15143079?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Chocolate Muffins",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15143079?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 164,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"lurpak",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 349,
+"fat": 13.9,
+"carbohydrates": 31.0,
+"sugars": 8.5,
+"protein": 11.8,
+"salt": 2.7
+},
+"rating": 4.2,
+"reviewCount": 4,
+"soldCount": 1630,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Cinnamon Rolls",
+"sku": "SKU-1026",
+"barcode": "6342192051776",
+"categoryName": "Bakery",
+"brandName": "Ferrero",
+"description": "Cinnamon Rolls from Ferrero. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ferrero Cinnamon Rolls - premium quality.",
+"price": 21.15,
+"compareAtPrice": 25.38,
+"discountPercentage": 15,
+"unit": "piece",
+"weight": 0.53,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15193450?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Cinnamon Rolls",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15193450?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Cinnamon Rolls",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15193450?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Cinnamon Rolls",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15193450?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 129,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"ferrero",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 223,
+"fat": 4.4,
+"carbohydrates": 3.2,
+"sugars": 39.4,
+"protein": 15.3,
+"salt": 2.31
+},
+"rating": 3.7,
+"reviewCount": 773,
+"soldCount": 932,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Bagels 6pk",
+"sku": "SKU-1027",
+"barcode": "6758731991785",
+"categoryName": "Bakery",
+"brandName": "President",
+"description": "Bagels 6pk from President. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "President Bagels 6pk - premium quality.",
+"price": 29.0,
+"compareAtPrice": 36.25,
+"discountPercentage": 20,
+"unit": "piece",
+"weight": 0.11,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15754874?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Bagels 6pk",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15754874?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Bagels 6pk",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15754874?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Bagels 6pk",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15754874?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 84,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"president",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 129,
+"fat": 23.4,
+"carbohydrates": 15.3,
+"sugars": 32.2,
+"protein": 17.4,
+"salt": 1.39
+},
+"rating": 4.3,
+"reviewCount": 253,
+"soldCount": 1141,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Pita Bread",
+"sku": "SKU-1028",
+"barcode": "6895984519250",
+"categoryName": "Bakery",
+"brandName": "Actimel",
+"description": "Pita Bread from Actimel. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Actimel Pita Bread - premium quality.",
+"price": 27.04,
+"compareAtPrice": 36.5,
+"discountPercentage": 30,
+"unit": "piece",
+"weight": 1.47,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15996283?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Pita Bread",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15996283?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Pita Bread",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15996283?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Pita Bread",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15996283?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 235,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"actimel",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 536,
+"fat": 12.8,
+"carbohydrates": 63.5,
+"sugars": 17.8,
+"protein": 4.0,
+"salt": 2.58
+},
+"rating": 4.4,
+"reviewCount": 777,
+"soldCount": 921,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Brioche Buns",
+"sku": "SKU-1029",
+"barcode": "6297359885684",
+"categoryName": "Bakery",
+"brandName": "Dettol",
+"description": "Brioche Buns from Dettol. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dettol Brioche Buns - premium quality.",
+"price": 19.95,
+"compareAtPrice": 21.95,
+"discountPercentage": 5,
+"unit": "piece",
+"weight": 0.74,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15968274?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Brioche Buns",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15968274?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Brioche Buns",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15968274?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Brioche Buns",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15968274?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 155,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"dettol",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 102,
+"fat": 4.2,
+"carbohydrates": 16.2,
+"sugars": 27.8,
+"protein": 17.7,
+"salt": 0.19
+},
+"rating": 4.0,
+"reviewCount": 83,
+"soldCount": 834,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Ciabatta",
+"sku": "SKU-1030",
+"barcode": "6970047277656",
+"categoryName": "Bakery",
+"brandName": "Danone",
+"description": "Ciabatta from Danone. Premium quality bakery sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Danone Ciabatta - premium quality.",
+"price": 9.2,
+"compareAtPrice": 11.5,
+"discountPercentage": 20,
+"unit": "piece",
+"weight": 1.55,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15973389?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Ciabatta",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15973389?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Ciabatta",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15973389?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Ciabatta",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15973389?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 19,
+"lowStockThreshold": 10,
+"tags": [
+"bakery",
+"danone",
+"piece"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 409,
+"fat": 14.3,
+"carbohydrates": 66.0,
+"sugars": 11.9,
+"protein": 9.7,
+"salt": 2.67
+},
+"rating": 4.1,
+"reviewCount": 792,
+"soldCount": 1711,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Chicken Breast",
+"sku": "SKU-1031",
+"barcode": "6425326422970",
+"categoryName": "Meat & Seafood",
+"brandName": "Colgate",
+"description": "Chicken Breast from Colgate. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Colgate Chicken Breast - premium quality.",
+"price": 35.95,
+"compareAtPrice": 46.74,
+"discountPercentage": 25,
+"unit": "kg",
+"weight": 0.74,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15926892?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Chicken Breast",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15926892?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Chicken Breast",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15926892?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Chicken Breast",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15926892?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 257,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"colgate",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 434,
+"fat": 21.7,
+"carbohydrates": 58.8,
+"sugars": 36.8,
+"protein": 24.5,
+"salt": 1.6
+},
+"rating": 3.9,
+"reviewCount": 450,
+"soldCount": 1857,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Beef Mince",
+"sku": "SKU-1032",
+"barcode": "6233334202984",
+"categoryName": "Meat & Seafood",
+"brandName": "Milka",
+"description": "Beef Mince from Milka. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Milka Beef Mince - premium quality.",
+"price": 6.45,
+"compareAtPrice": 8.38,
+"discountPercentage": 25,
+"unit": "kg",
+"weight": 0.96,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15435661?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Beef Mince",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15435661?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Beef Mince",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15435661?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Beef Mince",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15435661?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 203,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"milka",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 365,
+"fat": 22.8,
+"carbohydrates": 26.5,
+"sugars": 30.1,
+"protein": 20.8,
+"salt": 0.76
+},
+"rating": 3.9,
+"reviewCount": 270,
+"soldCount": 167,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Salmon Fillet",
+"sku": "SKU-1033",
+"barcode": "6033304178029",
+"categoryName": "Meat & Seafood",
+"brandName": "Quaker",
+"description": "Salmon Fillet from Quaker. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Quaker Salmon Fillet - premium quality.",
+"price": 9.88,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "kg",
+"weight": 1.9,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15700255?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Salmon Fillet",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15700255?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Salmon Fillet",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15700255?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Salmon Fillet",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15700255?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 29,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"quaker",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 224,
+"fat": 25.2,
+"carbohydrates": 43.5,
+"sugars": 9.5,
+"protein": 11.8,
+"salt": 0.34
+},
+"rating": 4.7,
+"reviewCount": 671,
+"soldCount": 1941,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Lamb Chops",
+"sku": "SKU-1034",
+"barcode": "6636119440405",
+"categoryName": "Meat & Seafood",
+"brandName": "Knorr",
+"description": "Lamb Chops from Knorr. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Knorr Lamb Chops - premium quality.",
+"price": 7.69,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "kg",
+"weight": 0.15,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15253186?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Lamb Chops",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15253186?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Lamb Chops",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15253186?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Lamb Chops",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15253186?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 168,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"knorr",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 339,
+"fat": 17.3,
+"carbohydrates": 63.6,
+"sugars": 15.0,
+"protein": 23.5,
+"salt": 0.59
+},
+"rating": 4.7,
+"reviewCount": 171,
+"soldCount": 1212,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Shrimp 500g",
+"sku": "SKU-1035",
+"barcode": "6861424120992",
+"categoryName": "Meat & Seafood",
+"brandName": "Nescafe",
+"description": "Shrimp 500g from Nescafe. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Nescafe Shrimp 500g - premium quality.",
+"price": 28.18,
+"compareAtPrice": 32.41,
+"discountPercentage": 10,
+"unit": "kg",
+"weight": 0.18,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15976116?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Shrimp 500g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15976116?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Shrimp 500g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15976116?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Shrimp 500g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15976116?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 70,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"nescafe",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 458,
+"fat": 19.8,
+"carbohydrates": 4.8,
+"sugars": 25.9,
+"protein": 0.3,
+"salt": 1.26
+},
+"rating": 4.8,
+"reviewCount": 618,
+"soldCount": 1003,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Turkey Slices",
+"sku": "SKU-1036",
+"barcode": "6887408586371",
+"categoryName": "Meat & Seafood",
+"brandName": "Actimel",
+"description": "Turkey Slices from Actimel. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Actimel Turkey Slices - premium quality.",
+"price": 28.57,
+"compareAtPrice": 35.71,
+"discountPercentage": 20,
+"unit": "kg",
+"weight": 1.85,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15903843?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Turkey Slices",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15903843?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Turkey Slices",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15903843?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Turkey Slices",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15903843?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 147,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"actimel",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 515,
+"fat": 13.9,
+"carbohydrates": 57.8,
+"sugars": 23.7,
+"protein": 8.1,
+"salt": 0.74
+},
+"rating": 3.8,
+"reviewCount": 538,
+"soldCount": 1914,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Beef Steak",
+"sku": "SKU-1037",
+"barcode": "6533356940935",
+"categoryName": "Meat & Seafood",
+"brandName": "Actimel",
+"description": "Beef Steak from Actimel. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Actimel Beef Steak - premium quality.",
+"price": 23.25,
+"compareAtPrice": 29.06,
+"discountPercentage": 20,
+"unit": "kg",
+"weight": 0.5,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15115593?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Beef Steak",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15115593?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Beef Steak",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15115593?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Beef Steak",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15115593?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 175,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"actimel",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 284,
+"fat": 10.2,
+"carbohydrates": 61.6,
+"sugars": 28.0,
+"protein": 6.9,
+"salt": 0.03
+},
+"rating": 4.1,
+"reviewCount": 510,
+"soldCount": 1941,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Chicken Wings",
+"sku": "SKU-1038",
+"barcode": "6020585489939",
+"categoryName": "Meat & Seafood",
+"brandName": "Ariel",
+"description": "Chicken Wings from Ariel. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ariel Chicken Wings - premium quality.",
+"price": 30.54,
+"compareAtPrice": 39.7,
+"discountPercentage": 25,
+"unit": "kg",
+"weight": 0.28,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15124774?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Chicken Wings",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15124774?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Chicken Wings",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15124774?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Chicken Wings",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15124774?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 238,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"ariel",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 246,
+"fat": 12.1,
+"carbohydrates": 17.0,
+"sugars": 26.6,
+"protein": 9.2,
+"salt": 1.66
+},
+"rating": 4.5,
+"reviewCount": 506,
+"soldCount": 704,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Cod Fillet",
+"sku": "SKU-1039",
+"barcode": "6130204286982",
+"categoryName": "Meat & Seafood",
+"brandName": "Actimel",
+"description": "Cod Fillet from Actimel. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Actimel Cod Fillet - premium quality.",
+"price": 11.68,
+"compareAtPrice": 13.43,
+"discountPercentage": 10,
+"unit": "kg",
+"weight": 1.51,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15483990?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Cod Fillet",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15483990?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Cod Fillet",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15483990?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Cod Fillet",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15483990?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 107,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"actimel",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 209,
+"fat": 5.7,
+"carbohydrates": 51.7,
+"sugars": 11.1,
+"protein": 14.7,
+"salt": 2.28
+},
+"rating": 3.9,
+"reviewCount": 742,
+"soldCount": 1222,
+"isFeatured": false,
+"isBestSeller": true,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Sausages",
+"sku": "SKU-1040",
+"barcode": "6301191380396",
+"categoryName": "Meat & Seafood",
+"brandName": "President",
+"description": "Sausages from President. Premium quality meat & seafood sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "President Sausages - premium quality.",
+"price": 12.66,
+"compareAtPrice": 15.19,
+"discountPercentage": 15,
+"unit": "kg",
+"weight": 0.19,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15411121?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Sausages",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15411121?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Sausages",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15411121?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Sausages",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15411121?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 282,
+"lowStockThreshold": 10,
+"tags": [
+"meat",
+"president",
+"kg"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 75,
+"fat": 16.6,
+"carbohydrates": 48.8,
+"sugars": 5.1,
+"protein": 21.7,
+"salt": 1.47
+},
+"rating": 3.9,
+"reviewCount": 18,
+"soldCount": 1787,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Sparkling Water 1.5L",
+"sku": "SKU-1041",
+"barcode": "6902433132686",
+"categoryName": "Beverages",
+"brandName": "Sunbulah",
+"description": "Sparkling Water 1.5L from Sunbulah. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Sunbulah Sparkling Water 1.5L - premium quality.",
+"price": 18.25,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "bottle",
+"weight": 0.22,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15128917?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Sparkling Water 1.5L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15128917?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Sparkling Water 1.5L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15128917?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Sparkling Water 1.5L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15128917?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 253,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"sunbulah",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 523,
+"fat": 2.2,
+"carbohydrates": 44.1,
+"sugars": 2.1,
+"protein": 3.7,
+"salt": 1.69
+},
+"rating": 5.0,
+"reviewCount": 262,
+"soldCount": 622,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Orange Juice 1L",
+"sku": "SKU-1042",
+"barcode": "6489233301053",
+"categoryName": "Beverages",
+"brandName": "Ariel",
+"description": "Orange Juice 1L from Ariel. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ariel Orange Juice 1L - premium quality.",
+"price": 30.78,
+"compareAtPrice": 33.86,
+"discountPercentage": 5,
+"unit": "bottle",
+"weight": 0.66,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15415908?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Orange Juice 1L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15415908?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Orange Juice 1L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15415908?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Orange Juice 1L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15415908?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 239,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"ariel",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 459,
+"fat": 9.2,
+"carbohydrates": 43.5,
+"sugars": 24.4,
+"protein": 18.5,
+"salt": 2.84
+},
+"rating": 4.7,
+"reviewCount": 393,
+"soldCount": 425,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Cola 330ml",
+"sku": "SKU-1043",
+"barcode": "6495675808653",
+"categoryName": "Beverages",
+"brandName": "Heinz",
+"description": "Cola 330ml from Heinz. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Heinz Cola 330ml - premium quality.",
+"price": 7.28,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "bottle",
+"weight": 1.41,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15451179?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Cola 330ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15451179?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Cola 330ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15451179?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Cola 330ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15451179?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 3,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"heinz",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 501,
+"fat": 8.7,
+"carbohydrates": 16.2,
+"sugars": 28.3,
+"protein": 17.6,
+"salt": 1.36
+},
+"rating": 4.4,
+"reviewCount": 164,
+"soldCount": 1407,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Green Tea 20 bags",
+"sku": "SKU-1044",
+"barcode": "6165990327202",
+"categoryName": "Beverages",
+"brandName": "Johnsons",
+"description": "Green Tea 20 bags from Johnsons. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Johnsons Green Tea 20 bags - premium quality.",
+"price": 26.79,
+"compareAtPrice": 29.47,
+"discountPercentage": 5,
+"unit": "bottle",
+"weight": 1.83,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15669677?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Green Tea 20 bags",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15669677?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Green Tea 20 bags",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15669677?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Green Tea 20 bags",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15669677?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 124,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"johnsons",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 165,
+"fat": 2.1,
+"carbohydrates": 11.6,
+"sugars": 12.3,
+"protein": 18.7,
+"salt": 1.71
+},
+"rating": 4.2,
+"reviewCount": 561,
+"soldCount": 591,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Energy Drink 250ml",
+"sku": "SKU-1045",
+"barcode": "6657475491416",
+"categoryName": "Beverages",
+"brandName": "Red Bull",
+"description": "Energy Drink 250ml from Red Bull. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Red Bull Energy Drink 250ml - premium quality.",
+"price": 28.28,
+"compareAtPrice": 32.52,
+"discountPercentage": 10,
+"unit": "bottle",
+"weight": 0.18,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15577953?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Energy Drink 250ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15577953?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Energy Drink 250ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15577953?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Energy Drink 250ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15577953?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 233,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"red bull",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 462,
+"fat": 22.0,
+"carbohydrates": 42.3,
+"sugars": 1.0,
+"protein": 5.7,
+"salt": 2.02
+},
+"rating": 4.3,
+"reviewCount": 509,
+"soldCount": 1762,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Apple Juice 1L",
+"sku": "SKU-1046",
+"barcode": "6308877180672",
+"categoryName": "Beverages",
+"brandName": "Cadbury",
+"description": "Apple Juice 1L from Cadbury. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Cadbury Apple Juice 1L - premium quality.",
+"price": 23.5,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "bottle",
+"weight": 0.44,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15379133?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Apple Juice 1L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15379133?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Apple Juice 1L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15379133?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Apple Juice 1L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15379133?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 235,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"cadbury",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 466,
+"fat": 19.0,
+"carbohydrates": 34.4,
+"sugars": 3.6,
+"protein": 8.7,
+"salt": 1.0
+},
+"rating": 4.3,
+"reviewCount": 671,
+"soldCount": 1372,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Mineral Water 6x500ml",
+"sku": "SKU-1047",
+"barcode": "6498373819327",
+"categoryName": "Beverages",
+"brandName": "Kinder",
+"description": "Mineral Water 6x500ml from Kinder. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Kinder Mineral Water 6x500ml - premium quality.",
+"price": 28.05,
+"compareAtPrice": 32.26,
+"discountPercentage": 10,
+"unit": "bottle",
+"weight": 0.27,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15245805?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Mineral Water 6x500ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15245805?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Mineral Water 6x500ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15245805?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Mineral Water 6x500ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15245805?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 290,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"kinder",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 278,
+"fat": 9.7,
+"carbohydrates": 67.9,
+"sugars": 16.2,
+"protein": 12.9,
+"salt": 2.96
+},
+"rating": 4.5,
+"reviewCount": 414,
+"soldCount": 1346,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Lemonade 1L",
+"sku": "SKU-1048",
+"barcode": "6059098709360",
+"categoryName": "Beverages",
+"brandName": "Danone",
+"description": "Lemonade 1L from Danone. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Danone Lemonade 1L - premium quality.",
+"price": 8.46,
+"compareAtPrice": 10.15,
+"discountPercentage": 15,
+"unit": "bottle",
+"weight": 0.49,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15312526?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Lemonade 1L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15312526?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Lemonade 1L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15312526?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Lemonade 1L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15312526?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 235,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"danone",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 154,
+"fat": 27.8,
+"carbohydrates": 30.7,
+"sugars": 27.9,
+"protein": 3.0,
+"salt": 2.92
+},
+"rating": 4.5,
+"reviewCount": 514,
+"soldCount": 1246,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Iced Coffee 250ml",
+"sku": "SKU-1049",
+"barcode": "6709174117091",
+"categoryName": "Beverages",
+"brandName": "Red Bull",
+"description": "Iced Coffee 250ml from Red Bull. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Red Bull Iced Coffee 250ml - premium quality.",
+"price": 22.52,
+"compareAtPrice": 30.4,
+"discountPercentage": 30,
+"unit": "bottle",
+"weight": 1.68,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15337786?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Iced Coffee 250ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15337786?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Iced Coffee 250ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15337786?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Iced Coffee 250ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15337786?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 67,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"red bull",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 530,
+"fat": 28.0,
+"carbohydrates": 20.4,
+"sugars": 28.2,
+"protein": 10.4,
+"salt": 1.45
+},
+"rating": 4.2,
+"reviewCount": 234,
+"soldCount": 967,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Coconut Water",
+"sku": "SKU-1050",
+"barcode": "6557434001695",
+"categoryName": "Beverages",
+"brandName": "Colgate",
+"description": "Coconut Water from Colgate. Premium quality beverages sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Colgate Coconut Water - premium quality.",
+"price": 20.87,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "bottle",
+"weight": 0.61,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15596961?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Coconut Water",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15596961?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Coconut Water",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15596961?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Coconut Water",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15596961?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 221,
+"lowStockThreshold": 10,
+"tags": [
+"beverages",
+"colgate",
+"bottle"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 22,
+"fat": 8.5,
+"carbohydrates": 20.9,
+"sugars": 23.5,
+"protein": 25.0,
+"salt": 1.47
+},
+"rating": 4.8,
+"reviewCount": 286,
+"soldCount": 304,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Potato Chips 150g",
+"sku": "SKU-1051",
+"barcode": "6768716573635",
+"categoryName": "Snacks & Sweets",
+"brandName": "Tropicana",
+"description": "Potato Chips 150g from Tropicana. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Tropicana Potato Chips 150g - premium quality.",
+"price": 22.56,
+"compareAtPrice": 30.46,
+"discountPercentage": 30,
+"unit": "pack",
+"weight": 0.55,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15826680?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Potato Chips 150g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15826680?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Potato Chips 150g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15826680?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Potato Chips 150g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15826680?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 105,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"tropicana",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 412,
+"fat": 7.0,
+"carbohydrates": 54.3,
+"sugars": 1.7,
+"protein": 18.6,
+"salt": 2.12
+},
+"rating": 4.1,
+"reviewCount": 333,
+"soldCount": 1661,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Milk Chocolate Bar",
+"sku": "SKU-1052",
+"barcode": "6111109516823",
+"categoryName": "Snacks & Sweets",
+"brandName": "Dole",
+"description": "Milk Chocolate Bar from Dole. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dole Milk Chocolate Bar - premium quality.",
+"price": 20.37,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 1.76,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15171968?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Milk Chocolate Bar",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15171968?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Milk Chocolate Bar",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15171968?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Milk Chocolate Bar",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15171968?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 178,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"dole",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 470,
+"fat": 3.0,
+"carbohydrates": 63.7,
+"sugars": 0.6,
+"protein": 3.6,
+"salt": 2.61
+},
+"rating": 3.8,
+"reviewCount": 608,
+"soldCount": 1986,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Salted Pretzels",
+"sku": "SKU-1053",
+"barcode": "6688554816658",
+"categoryName": "Snacks & Sweets",
+"brandName": "Lays",
+"description": "Salted Pretzels from Lays. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lays Salted Pretzels - premium quality.",
+"price": 14.3,
+"compareAtPrice": 17.88,
+"discountPercentage": 20,
+"unit": "pack",
+"weight": 1.47,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15308010?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Salted Pretzels",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15308010?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Salted Pretzels",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15308010?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Salted Pretzels",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15308010?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 282,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"lays",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 519,
+"fat": 26.2,
+"carbohydrates": 2.5,
+"sugars": 2.7,
+"protein": 15.8,
+"salt": 2.76
+},
+"rating": 4.5,
+"reviewCount": 340,
+"soldCount": 465,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Chocolate Cookies",
+"sku": "SKU-1054",
+"barcode": "6063548952306",
+"categoryName": "Snacks & Sweets",
+"brandName": "Nescafe",
+"description": "Chocolate Cookies from Nescafe. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Nescafe Chocolate Cookies - premium quality.",
+"price": 18.37,
+"compareAtPrice": 21.13,
+"discountPercentage": 10,
+"unit": "pack",
+"weight": 0.66,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15673063?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Chocolate Cookies",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15673063?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Chocolate Cookies",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15673063?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Chocolate Cookies",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15673063?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 175,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"nescafe",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 403,
+"fat": 12.9,
+"carbohydrates": 17.1,
+"sugars": 16.5,
+"protein": 17.0,
+"salt": 0.54
+},
+"rating": 4.9,
+"reviewCount": 51,
+"soldCount": 358,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Mixed Nuts 200g",
+"sku": "SKU-1055",
+"barcode": "6702060293051",
+"categoryName": "Snacks & Sweets",
+"brandName": "Dove",
+"description": "Mixed Nuts 200g from Dove. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dove Mixed Nuts 200g - premium quality.",
+"price": 27.64,
+"compareAtPrice": 35.93,
+"discountPercentage": 25,
+"unit": "pack",
+"weight": 0.58,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15686144?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Mixed Nuts 200g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15686144?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Mixed Nuts 200g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15686144?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Mixed Nuts 200g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15686144?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 127,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"dove",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 281,
+"fat": 20.0,
+"carbohydrates": 62.9,
+"sugars": 18.6,
+"protein": 7.2,
+"salt": 1.64
+},
+"rating": 4.9,
+"reviewCount": 150,
+"soldCount": 151,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Gummy Bears",
+"sku": "SKU-1056",
+"barcode": "6531946025298",
+"categoryName": "Snacks & Sweets",
+"brandName": "Milka",
+"description": "Gummy Bears from Milka. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Milka Gummy Bears - premium quality.",
+"price": 27.92,
+"compareAtPrice": 36.3,
+"discountPercentage": 25,
+"unit": "pack",
+"weight": 0.3,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15769758?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Gummy Bears",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15769758?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Gummy Bears",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15769758?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Gummy Bears",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15769758?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 205,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"milka",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 410,
+"fat": 17.2,
+"carbohydrates": 40.2,
+"sugars": 39.7,
+"protein": 7.4,
+"salt": 2.93
+},
+"rating": 4.8,
+"reviewCount": 207,
+"soldCount": 1348,
+"isFeatured": false,
+"isBestSeller": true,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Wafer Rolls",
+"sku": "SKU-1057",
+"barcode": "6883075619976",
+"categoryName": "Snacks & Sweets",
+"brandName": "Danone",
+"description": "Wafer Rolls from Danone. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Danone Wafer Rolls - premium quality.",
+"price": 36.44,
+"compareAtPrice": 47.37,
+"discountPercentage": 25,
+"unit": "pack",
+"weight": 0.77,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15255105?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Wafer Rolls",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15255105?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Wafer Rolls",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15255105?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Wafer Rolls",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15255105?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 126,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"danone",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 214,
+"fat": 18.6,
+"carbohydrates": 47.4,
+"sugars": 28.8,
+"protein": 16.5,
+"salt": 2.52
+},
+"rating": 4.8,
+"reviewCount": 297,
+"soldCount": 1286,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Dark Chocolate 70%",
+"sku": "SKU-1058",
+"barcode": "6821742001498",
+"categoryName": "Snacks & Sweets",
+"brandName": "Activia",
+"description": "Dark Chocolate 70% from Activia. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Activia Dark Chocolate 70% - premium quality.",
+"price": 2.49,
+"compareAtPrice": 2.99,
+"discountPercentage": 15,
+"unit": "pack",
+"weight": 0.89,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15936143?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Dark Chocolate 70%",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15936143?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Dark Chocolate 70%",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15936143?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Dark Chocolate 70%",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15936143?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 160,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"activia",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 225,
+"fat": 4.0,
+"carbohydrates": 37.8,
+"sugars": 38.9,
+"protein": 13.3,
+"salt": 2.74
+},
+"rating": 4.6,
+"reviewCount": 96,
+"soldCount": 1700,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Popcorn 100g",
+"sku": "SKU-1059",
+"barcode": "6154942230953",
+"categoryName": "Snacks & Sweets",
+"brandName": "Sunbulah",
+"description": "Popcorn 100g from Sunbulah. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Sunbulah Popcorn 100g - premium quality.",
+"price": 38.64,
+"compareAtPrice": 44.44,
+"discountPercentage": 10,
+"unit": "pack",
+"weight": 1.53,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15763934?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Popcorn 100g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15763934?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Popcorn 100g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15763934?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Popcorn 100g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15763934?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 67,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"sunbulah",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 251,
+"fat": 25.8,
+"carbohydrates": 50.7,
+"sugars": 39.2,
+"protein": 24.2,
+"salt": 2.41
+},
+"rating": 4.6,
+"reviewCount": 350,
+"soldCount": 749,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Rice Crackers",
+"sku": "SKU-1060",
+"barcode": "6419122494202",
+"categoryName": "Snacks & Sweets",
+"brandName": "Lays",
+"description": "Rice Crackers from Lays. Premium quality snacks & sweets sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lays Rice Crackers - premium quality.",
+"price": 21.97,
+"compareAtPrice": 28.56,
+"discountPercentage": 25,
+"unit": "pack",
+"weight": 1.66,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15136859?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Rice Crackers",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15136859?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Rice Crackers",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15136859?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Rice Crackers",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15136859?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 143,
+"lowStockThreshold": 10,
+"tags": [
+"snacks",
+"lays",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 400,
+"fat": 3.3,
+"carbohydrates": 16.4,
+"sugars": 1.0,
+"protein": 22.1,
+"salt": 1.68
+},
+"rating": 4.1,
+"reviewCount": 770,
+"soldCount": 1874,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Basmati Rice 1kg",
+"sku": "SKU-1061",
+"barcode": "6330872306667",
+"categoryName": "Pantry Staples",
+"brandName": "Actimel",
+"description": "Basmati Rice 1kg from Actimel. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Actimel Basmati Rice 1kg - premium quality.",
+"price": 36.39,
+"compareAtPrice": 41.85,
+"discountPercentage": 10,
+"unit": "pack",
+"weight": 1.99,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15391600?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Basmati Rice 1kg",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15391600?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Basmati Rice 1kg",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15391600?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Basmati Rice 1kg",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15391600?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 80,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"actimel",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 138,
+"fat": 2.9,
+"carbohydrates": 62.1,
+"sugars": 5.4,
+"protein": 11.3,
+"salt": 2.01
+},
+"rating": 4.5,
+"reviewCount": 123,
+"soldCount": 1521,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Spaghetti 500g",
+"sku": "SKU-1062",
+"barcode": "6540451596522",
+"categoryName": "Pantry Staples",
+"brandName": "Johnsons",
+"description": "Spaghetti 500g from Johnsons. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Johnsons Spaghetti 500g - premium quality.",
+"price": 29.93,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 1.27,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15289691?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Spaghetti 500g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15289691?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Spaghetti 500g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15289691?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Spaghetti 500g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15289691?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 59,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"johnsons",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 306,
+"fat": 1.0,
+"carbohydrates": 25.9,
+"sugars": 17.7,
+"protein": 23.8,
+"salt": 2.57
+},
+"rating": 4.8,
+"reviewCount": 674,
+"soldCount": 203,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Olive Oil 500ml",
+"sku": "SKU-1063",
+"barcode": "6726243207371",
+"categoryName": "Pantry Staples",
+"brandName": "Quaker",
+"description": "Olive Oil 500ml from Quaker. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Quaker Olive Oil 500ml - premium quality.",
+"price": 3.54,
+"compareAtPrice": 4.07,
+"discountPercentage": 10,
+"unit": "pack",
+"weight": 0.5,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15781751?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Olive Oil 500ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15781751?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Olive Oil 500ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15781751?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Olive Oil 500ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15781751?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 241,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"quaker",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 41,
+"fat": 1.5,
+"carbohydrates": 23.3,
+"sugars": 39.6,
+"protein": 19.7,
+"salt": 0.62
+},
+"rating": 3.9,
+"reviewCount": 129,
+"soldCount": 1699,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Canned Chickpeas",
+"sku": "SKU-1064",
+"barcode": "6941788724211",
+"categoryName": "Pantry Staples",
+"brandName": "Philadelphia",
+"description": "Canned Chickpeas from Philadelphia. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Philadelphia Canned Chickpeas - premium quality.",
+"price": 32.67,
+"compareAtPrice": 35.94,
+"discountPercentage": 5,
+"unit": "pack",
+"weight": 1.97,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15391769?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Canned Chickpeas",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15391769?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Canned Chickpeas",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15391769?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Canned Chickpeas",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15391769?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 3,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"philadelphia",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 153,
+"fat": 16.2,
+"carbohydrates": 55.9,
+"sugars": 4.4,
+"protein": 21.7,
+"salt": 0.4
+},
+"rating": 4.1,
+"reviewCount": 155,
+"soldCount": 733,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Tomato Paste",
+"sku": "SKU-1065",
+"barcode": "6126813571724",
+"categoryName": "Pantry Staples",
+"brandName": "Evian",
+"description": "Tomato Paste from Evian. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Evian Tomato Paste - premium quality.",
+"price": 1.81,
+"compareAtPrice": 2.08,
+"discountPercentage": 10,
+"unit": "pack",
+"weight": 1.52,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15715465?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Tomato Paste",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15715465?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Tomato Paste",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15715465?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Tomato Paste",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15715465?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 224,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"evian",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 507,
+"fat": 13.4,
+"carbohydrates": 25.3,
+"sugars": 23.7,
+"protein": 11.3,
+"salt": 0.66
+},
+"rating": 3.7,
+"reviewCount": 763,
+"soldCount": 1259,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Brown Lentils 1kg",
+"sku": "SKU-1066",
+"barcode": "6753450108054",
+"categoryName": "Pantry Staples",
+"brandName": "Dettol",
+"description": "Brown Lentils 1kg from Dettol. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dettol Brown Lentils 1kg - premium quality.",
+"price": 12.87,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 0.31,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15755390?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Brown Lentils 1kg",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15755390?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Brown Lentils 1kg",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15755390?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Brown Lentils 1kg",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15755390?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 214,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"dettol",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 474,
+"fat": 2.2,
+"carbohydrates": 5.7,
+"sugars": 24.3,
+"protein": 1.6,
+"salt": 0.83
+},
+"rating": 3.7,
+"reviewCount": 494,
+"soldCount": 1296,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Sea Salt 500g",
+"sku": "SKU-1067",
+"barcode": "6872304329325",
+"categoryName": "Pantry Staples",
+"brandName": "Maggi",
+"description": "Sea Salt 500g from Maggi. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Maggi Sea Salt 500g - premium quality.",
+"price": 39.69,
+"compareAtPrice": 53.58,
+"discountPercentage": 30,
+"unit": "pack",
+"weight": 1.43,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15326173?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Sea Salt 500g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15326173?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Sea Salt 500g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15326173?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Sea Salt 500g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15326173?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 229,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"maggi",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 240,
+"fat": 12.9,
+"carbohydrates": 62.2,
+"sugars": 16.6,
+"protein": 20.7,
+"salt": 1.2
+},
+"rating": 4.0,
+"reviewCount": 521,
+"soldCount": 1494,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Sugar 1kg",
+"sku": "SKU-1068",
+"barcode": "6104934110625",
+"categoryName": "Pantry Staples",
+"brandName": "Knorr",
+"description": "Sugar 1kg from Knorr. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Knorr Sugar 1kg - premium quality.",
+"price": 38.1,
+"compareAtPrice": 49.53,
+"discountPercentage": 25,
+"unit": "pack",
+"weight": 1.51,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15877811?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Sugar 1kg",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15877811?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Sugar 1kg",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15877811?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Sugar 1kg",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15877811?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 56,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"knorr",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 401,
+"fat": 24.4,
+"carbohydrates": 38.9,
+"sugars": 23.5,
+"protein": 14.0,
+"salt": 0.99
+},
+"rating": 3.7,
+"reviewCount": 91,
+"soldCount": 250,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "All-Purpose Flour 1kg",
+"sku": "SKU-1069",
+"barcode": "6113179458577",
+"categoryName": "Pantry Staples",
+"brandName": "Milka",
+"description": "All-Purpose Flour 1kg from Milka. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Milka All-Purpose Flour 1kg - premium quality.",
+"price": 34.8,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 1.2,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15653078?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "All-Purpose Flour 1kg",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15653078?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "All-Purpose Flour 1kg",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15653078?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "All-Purpose Flour 1kg",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15653078?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 168,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"milka",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 237,
+"fat": 4.6,
+"carbohydrates": 33.8,
+"sugars": 33.9,
+"protein": 8.8,
+"salt": 1.67
+},
+"rating": 5.0,
+"reviewCount": 618,
+"soldCount": 235,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Penne Pasta 500g",
+"sku": "SKU-1070",
+"barcode": "6197692848598",
+"categoryName": "Pantry Staples",
+"brandName": "Milka",
+"description": "Penne Pasta 500g from Milka. Premium quality pantry staples sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Milka Penne Pasta 500g - premium quality.",
+"price": 33.91,
+"compareAtPrice": 45.78,
+"discountPercentage": 30,
+"unit": "pack",
+"weight": 0.62,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15345324?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Penne Pasta 500g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15345324?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Penne Pasta 500g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15345324?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Penne Pasta 500g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15345324?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 145,
+"lowStockThreshold": 10,
+"tags": [
+"pantry",
+"milka",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 336,
+"fat": 27.6,
+"carbohydrates": 24.6,
+"sugars": 7.3,
+"protein": 3.6,
+"salt": 1.97
+},
+"rating": 3.6,
+"reviewCount": 677,
+"soldCount": 142,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Corn Flakes 500g",
+"sku": "SKU-1071",
+"barcode": "6791612454760",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Dettol",
+"description": "Corn Flakes 500g from Dettol. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dettol Corn Flakes 500g - premium quality.",
+"price": 9.53,
+"compareAtPrice": 11.91,
+"discountPercentage": 20,
+"unit": "box",
+"weight": 0.72,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15879761?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Corn Flakes 500g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15879761?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Corn Flakes 500g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15879761?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Corn Flakes 500g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15879761?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 198,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"dettol",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 106,
+"fat": 26.5,
+"carbohydrates": 10.9,
+"sugars": 30.2,
+"protein": 1.2,
+"salt": 0.24
+},
+"rating": 4.2,
+"reviewCount": 165,
+"soldCount": 907,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Rolled Oats 1kg",
+"sku": "SKU-1072",
+"barcode": "6744245876540",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Cadbury",
+"description": "Rolled Oats 1kg from Cadbury. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Cadbury Rolled Oats 1kg - premium quality.",
+"price": 9.54,
+"compareAtPrice": 12.88,
+"discountPercentage": 30,
+"unit": "box",
+"weight": 1.39,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15444563?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Rolled Oats 1kg",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15444563?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Rolled Oats 1kg",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15444563?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Rolled Oats 1kg",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15444563?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 65,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"cadbury",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 518,
+"fat": 15.8,
+"carbohydrates": 21.6,
+"sugars": 8.8,
+"protein": 24.6,
+"salt": 0.16
+},
+"rating": 3.8,
+"reviewCount": 444,
+"soldCount": 418,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Honey 500g",
+"sku": "SKU-1073",
+"barcode": "6142488524208",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Lays",
+"description": "Honey 500g from Lays. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lays Honey 500g - premium quality.",
+"price": 12.4,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "box",
+"weight": 0.82,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15393844?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Honey 500g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15393844?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Honey 500g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15393844?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Honey 500g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15393844?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 229,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"lays",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 255,
+"fat": 15.0,
+"carbohydrates": 58.3,
+"sugars": 32.2,
+"protein": 1.8,
+"salt": 2.59
+},
+"rating": 3.6,
+"reviewCount": 768,
+"soldCount": 86,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Strawberry Jam",
+"sku": "SKU-1074",
+"barcode": "6125797509938",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Kelloggs",
+"description": "Strawberry Jam from Kelloggs. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Kelloggs Strawberry Jam - premium quality.",
+"price": 34.56,
+"compareAtPrice": 43.2,
+"discountPercentage": 20,
+"unit": "box",
+"weight": 0.87,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15139445?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Strawberry Jam",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15139445?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Strawberry Jam",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15139445?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Strawberry Jam",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15139445?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 222,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"kelloggs",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 352,
+"fat": 5.2,
+"carbohydrates": 66.3,
+"sugars": 18.4,
+"protein": 17.2,
+"salt": 1.09
+},
+"rating": 4.4,
+"reviewCount": 730,
+"soldCount": 894,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Peanut Butter 340g",
+"sku": "SKU-1075",
+"barcode": "6188029879499",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Dettol",
+"description": "Peanut Butter 340g from Dettol. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dettol Peanut Butter 340g - premium quality.",
+"price": 4.24,
+"compareAtPrice": 4.88,
+"discountPercentage": 10,
+"unit": "box",
+"weight": 0.25,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15825089?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Peanut Butter 340g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15825089?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Peanut Butter 340g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15825089?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Peanut Butter 340g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15825089?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 179,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"dettol",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 136,
+"fat": 15.9,
+"carbohydrates": 13.6,
+"sugars": 31.0,
+"protein": 8.8,
+"salt": 2.87
+},
+"rating": 4.6,
+"reviewCount": 230,
+"soldCount": 1321,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Granola 400g",
+"sku": "SKU-1076",
+"barcode": "6690514124625",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Dole",
+"description": "Granola 400g from Dole. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dole Granola 400g - premium quality.",
+"price": 11.11,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "box",
+"weight": 1.04,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15939333?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Granola 400g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15939333?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Granola 400g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15939333?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Granola 400g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15939333?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 47,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"dole",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 479,
+"fat": 20.4,
+"carbohydrates": 61.7,
+"sugars": 25.7,
+"protein": 24.7,
+"salt": 0.97
+},
+"rating": 4.4,
+"reviewCount": 782,
+"soldCount": 1988,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Chocolate Cereal",
+"sku": "SKU-1077",
+"barcode": "6555562361507",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Kelloggs",
+"description": "Chocolate Cereal from Kelloggs. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Kelloggs Chocolate Cereal - premium quality.",
+"price": 19.35,
+"compareAtPrice": 22.25,
+"discountPercentage": 10,
+"unit": "box",
+"weight": 0.24,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15437720?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Chocolate Cereal",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15437720?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Chocolate Cereal",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15437720?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Chocolate Cereal",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15437720?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 37,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"kelloggs",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 492,
+"fat": 13.6,
+"carbohydrates": 4.0,
+"sugars": 33.3,
+"protein": 1.9,
+"salt": 2.59
+},
+"rating": 4.7,
+"reviewCount": 609,
+"soldCount": 1751,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Maple Syrup",
+"sku": "SKU-1078",
+"barcode": "6998364004203",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Maggi",
+"description": "Maple Syrup from Maggi. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Maggi Maple Syrup - premium quality.",
+"price": 19.11,
+"compareAtPrice": 25.8,
+"discountPercentage": 30,
+"unit": "box",
+"weight": 1.64,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15486418?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Maple Syrup",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15486418?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Maple Syrup",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15486418?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Maple Syrup",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15486418?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 30,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"maggi",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 212,
+"fat": 9.6,
+"carbohydrates": 33.3,
+"sugars": 6.0,
+"protein": 1.5,
+"salt": 0.31
+},
+"rating": 4.9,
+"reviewCount": 760,
+"soldCount": 1841,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Muesli 750g",
+"sku": "SKU-1079",
+"barcode": "6174417786135",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Lurpak",
+"description": "Muesli 750g from Lurpak. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lurpak Muesli 750g - premium quality.",
+"price": 2.71,
+"compareAtPrice": 3.52,
+"discountPercentage": 25,
+"unit": "box",
+"weight": 0.79,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15334651?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Muesli 750g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15334651?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Muesli 750g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15334651?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Muesli 750g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15334651?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 276,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"lurpak",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 309,
+"fat": 11.6,
+"carbohydrates": 54.2,
+"sugars": 27.2,
+"protein": 1.3,
+"salt": 1.89
+},
+"rating": 5.0,
+"reviewCount": 540,
+"soldCount": 685,
+"isFeatured": true,
+"isBestSeller": true,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Hazelnut Spread",
+"sku": "SKU-1080",
+"barcode": "6386189485379",
+"categoryName": "Breakfast & Cereal",
+"brandName": "Ferrero",
+"description": "Hazelnut Spread from Ferrero. Premium quality breakfast & cereal sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ferrero Hazelnut Spread - premium quality.",
+"price": 10.95,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "box",
+"weight": 0.69,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15413769?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Hazelnut Spread",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15413769?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Hazelnut Spread",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15413769?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Hazelnut Spread",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15413769?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 81,
+"lowStockThreshold": 10,
+"tags": [
+"breakfast",
+"ferrero",
+"box"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 421,
+"fat": 3.9,
+"carbohydrates": 49.6,
+"sugars": 3.4,
+"protein": 14.0,
+"salt": 1.93
+},
+"rating": 4.1,
+"reviewCount": 600,
+"soldCount": 672,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Frozen Peas 900g",
+"sku": "SKU-1081",
+"barcode": "6198895065308",
+"categoryName": "Frozen Foods",
+"brandName": "Dettol",
+"description": "Frozen Peas 900g from Dettol. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dettol Frozen Peas 900g - premium quality.",
+"price": 4.82,
+"compareAtPrice": 6.03,
+"discountPercentage": 20,
+"unit": "pack",
+"weight": 1.91,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15113735?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Frozen Peas 900g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15113735?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Frozen Peas 900g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15113735?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Frozen Peas 900g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15113735?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 194,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"dettol",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 369,
+"fat": 28.4,
+"carbohydrates": 34.0,
+"sugars": 9.1,
+"protein": 3.4,
+"salt": 0.23
+},
+"rating": 4.3,
+"reviewCount": 22,
+"soldCount": 1729,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Vanilla Ice Cream 1L",
+"sku": "SKU-1082",
+"barcode": "6414882014361",
+"categoryName": "Frozen Foods",
+"brandName": "Dettol",
+"description": "Vanilla Ice Cream 1L from Dettol. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dettol Vanilla Ice Cream 1L - premium quality.",
+"price": 2.66,
+"compareAtPrice": 3.19,
+"discountPercentage": 15,
+"unit": "pack",
+"weight": 0.39,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15266494?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Vanilla Ice Cream 1L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15266494?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Vanilla Ice Cream 1L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15266494?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Vanilla Ice Cream 1L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15266494?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 76,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"dettol",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 205,
+"fat": 24.9,
+"carbohydrates": 54.0,
+"sugars": 32.4,
+"protein": 4.1,
+"salt": 1.31
+},
+"rating": 4.8,
+"reviewCount": 636,
+"soldCount": 841,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Frozen Pizza",
+"sku": "SKU-1083",
+"barcode": "6893205436233",
+"categoryName": "Frozen Foods",
+"brandName": "Activia",
+"description": "Frozen Pizza from Activia. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Activia Frozen Pizza - premium quality.",
+"price": 24.83,
+"compareAtPrice": 32.28,
+"discountPercentage": 25,
+"unit": "pack",
+"weight": 1.59,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15234420?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Frozen Pizza",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15234420?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Frozen Pizza",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15234420?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Frozen Pizza",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15234420?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 167,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"activia",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 218,
+"fat": 11.0,
+"carbohydrates": 66.3,
+"sugars": 39.4,
+"protein": 11.5,
+"salt": 0.85
+},
+"rating": 3.9,
+"reviewCount": 248,
+"soldCount": 782,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Chicken Nuggets 1kg",
+"sku": "SKU-1084",
+"barcode": "6411776196814",
+"categoryName": "Frozen Foods",
+"brandName": "President",
+"description": "Chicken Nuggets 1kg from President. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "President Chicken Nuggets 1kg - premium quality.",
+"price": 32.21,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 1.15,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15702773?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Chicken Nuggets 1kg",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15702773?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Chicken Nuggets 1kg",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15702773?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Chicken Nuggets 1kg",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15702773?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 255,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"president",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 125,
+"fat": 21.3,
+"carbohydrates": 36.1,
+"sugars": 5.0,
+"protein": 2.1,
+"salt": 0.48
+},
+"rating": 4.8,
+"reviewCount": 57,
+"soldCount": 920,
+"isFeatured": false,
+"isBestSeller": true,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Mixed Berries 500g",
+"sku": "SKU-1085",
+"barcode": "6057616543512",
+"categoryName": "Frozen Foods",
+"brandName": "Milka",
+"description": "Mixed Berries 500g from Milka. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Milka Mixed Berries 500g - premium quality.",
+"price": 4.75,
+"compareAtPrice": 5.23,
+"discountPercentage": 5,
+"unit": "pack",
+"weight": 0.85,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15611557?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Mixed Berries 500g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15611557?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Mixed Berries 500g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15611557?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Mixed Berries 500g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15611557?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 22,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"milka",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 402,
+"fat": 7.1,
+"carbohydrates": 69.6,
+"sugars": 15.0,
+"protein": 0.7,
+"salt": 2.79
+},
+"rating": 4.7,
+"reviewCount": 361,
+"soldCount": 1718,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "French Fries 1kg",
+"sku": "SKU-1086",
+"barcode": "6776353311207",
+"categoryName": "Frozen Foods",
+"brandName": "Dole",
+"description": "French Fries 1kg from Dole. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dole French Fries 1kg - premium quality.",
+"price": 6.53,
+"compareAtPrice": 7.51,
+"discountPercentage": 10,
+"unit": "pack",
+"weight": 0.99,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15632528?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "French Fries 1kg",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15632528?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "French Fries 1kg",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15632528?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "French Fries 1kg",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15632528?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 80,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"dole",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 25,
+"fat": 27.2,
+"carbohydrates": 1.3,
+"sugars": 8.6,
+"protein": 3.7,
+"salt": 2.82
+},
+"rating": 4.9,
+"reviewCount": 487,
+"soldCount": 1246,
+"isFeatured": false,
+"isBestSeller": true,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Frozen Spinach",
+"sku": "SKU-1087",
+"barcode": "6120528838961",
+"categoryName": "Frozen Foods",
+"brandName": "Ferrero",
+"description": "Frozen Spinach from Ferrero. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ferrero Frozen Spinach - premium quality.",
+"price": 10.4,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 1.69,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15782724?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Frozen Spinach",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15782724?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Frozen Spinach",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15782724?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Frozen Spinach",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15782724?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 243,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"ferrero",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 531,
+"fat": 17.9,
+"carbohydrates": 1.2,
+"sugars": 20.6,
+"protein": 6.0,
+"salt": 0.43
+},
+"rating": 3.7,
+"reviewCount": 433,
+"soldCount": 879,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Fish Fingers",
+"sku": "SKU-1088",
+"barcode": "6579620455264",
+"categoryName": "Frozen Foods",
+"brandName": "Pampers",
+"description": "Fish Fingers from Pampers. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Pampers Fish Fingers - premium quality.",
+"price": 17.32,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 1.13,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15143139?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Fish Fingers",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15143139?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Fish Fingers",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15143139?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Fish Fingers",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15143139?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 43,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"pampers",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 539,
+"fat": 16.6,
+"carbohydrates": 27.3,
+"sugars": 18.8,
+"protein": 15.9,
+"salt": 2.94
+},
+"rating": 4.3,
+"reviewCount": 373,
+"soldCount": 519,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Frozen Corn",
+"sku": "SKU-1089",
+"barcode": "6047817630111",
+"categoryName": "Frozen Foods",
+"brandName": "Kelloggs",
+"description": "Frozen Corn from Kelloggs. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Kelloggs Frozen Corn - premium quality.",
+"price": 14.54,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 0.77,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15483416?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Frozen Corn",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15483416?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Frozen Corn",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15483416?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Frozen Corn",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15483416?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 179,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"kelloggs",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 366,
+"fat": 24.4,
+"carbohydrates": 12.3,
+"sugars": 31.2,
+"protein": 11.6,
+"salt": 2.09
+},
+"rating": 4.7,
+"reviewCount": 756,
+"soldCount": 1293,
+"isFeatured": false,
+"isBestSeller": true,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Ice Cream Sandwiches",
+"sku": "SKU-1090",
+"barcode": "6563972481559",
+"categoryName": "Frozen Foods",
+"brandName": "Actimel",
+"description": "Ice Cream Sandwiches from Actimel. Premium quality frozen foods sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Actimel Ice Cream Sandwiches - premium quality.",
+"price": 2.63,
+"compareAtPrice": 2.89,
+"discountPercentage": 5,
+"unit": "pack",
+"weight": 0.86,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15596015?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Ice Cream Sandwiches",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15596015?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Ice Cream Sandwiches",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15596015?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Ice Cream Sandwiches",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15596015?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 30,
+"lowStockThreshold": 10,
+"tags": [
+"frozen",
+"actimel",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 504,
+"fat": 7.6,
+"carbohydrates": 52.7,
+"sugars": 7.6,
+"protein": 8.9,
+"salt": 2.34
+},
+"rating": 3.7,
+"reviewCount": 208,
+"soldCount": 1773,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Dish Soap 750ml",
+"sku": "SKU-1091",
+"barcode": "6206045573885",
+"categoryName": "Household & Cleaning",
+"brandName": "Knorr",
+"description": "Dish Soap 750ml from Knorr. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Knorr Dish Soap 750ml - premium quality.",
+"price": 18.11,
+"compareAtPrice": 22.64,
+"discountPercentage": 20,
+"unit": "unit",
+"weight": 1.04,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15261543?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Dish Soap 750ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15261543?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Dish Soap 750ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15261543?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Dish Soap 750ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15261543?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 182,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"knorr",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 529,
+"fat": 11.0,
+"carbohydrates": 55.8,
+"sugars": 10.7,
+"protein": 2.1,
+"salt": 1.27
+},
+"rating": 4.6,
+"reviewCount": 399,
+"soldCount": 881,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Laundry Detergent 2L",
+"sku": "SKU-1092",
+"barcode": "6788567255357",
+"categoryName": "Household & Cleaning",
+"brandName": "Evian",
+"description": "Laundry Detergent 2L from Evian. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Evian Laundry Detergent 2L - premium quality.",
+"price": 5.17,
+"compareAtPrice": 6.2,
+"discountPercentage": 15,
+"unit": "unit",
+"weight": 0.91,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15959866?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Laundry Detergent 2L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15959866?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Laundry Detergent 2L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15959866?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Laundry Detergent 2L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15959866?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 237,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"evian",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 474,
+"fat": 10.5,
+"carbohydrates": 3.0,
+"sugars": 34.8,
+"protein": 8.8,
+"salt": 2.99
+},
+"rating": 4.5,
+"reviewCount": 317,
+"soldCount": 562,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Paper Towels 6pk",
+"sku": "SKU-1093",
+"barcode": "6034156970372",
+"categoryName": "Household & Cleaning",
+"brandName": "Danone",
+"description": "Paper Towels 6pk from Danone. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Danone Paper Towels 6pk - premium quality.",
+"price": 4.1,
+"compareAtPrice": 5.12,
+"discountPercentage": 20,
+"unit": "unit",
+"weight": 0.37,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15830902?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Paper Towels 6pk",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15830902?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Paper Towels 6pk",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15830902?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Paper Towels 6pk",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15830902?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 90,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"danone",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 468,
+"fat": 1.0,
+"carbohydrates": 4.7,
+"sugars": 31.1,
+"protein": 9.2,
+"salt": 1.15
+},
+"rating": 4.1,
+"reviewCount": 824,
+"soldCount": 1161,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Toilet Paper 12pk",
+"sku": "SKU-1094",
+"barcode": "6345306926900",
+"categoryName": "Household & Cleaning",
+"brandName": "Knorr",
+"description": "Toilet Paper 12pk from Knorr. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Knorr Toilet Paper 12pk - premium quality.",
+"price": 15.6,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "unit",
+"weight": 1.33,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15252037?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Toilet Paper 12pk",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15252037?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Toilet Paper 12pk",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15252037?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Toilet Paper 12pk",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15252037?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 196,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"knorr",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 275,
+"fat": 28.8,
+"carbohydrates": 1.8,
+"sugars": 7.4,
+"protein": 12.9,
+"salt": 2.74
+},
+"rating": 4.4,
+"reviewCount": 546,
+"soldCount": 241,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Glass Cleaner",
+"sku": "SKU-1095",
+"barcode": "6146555611783",
+"categoryName": "Household & Cleaning",
+"brandName": "Activia",
+"description": "Glass Cleaner from Activia. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Activia Glass Cleaner - premium quality.",
+"price": 9.5,
+"compareAtPrice": 10.93,
+"discountPercentage": 10,
+"unit": "unit",
+"weight": 1.72,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15174663?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Glass Cleaner",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15174663?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Glass Cleaner",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15174663?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Glass Cleaner",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15174663?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 111,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"activia",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 482,
+"fat": 5.2,
+"carbohydrates": 49.9,
+"sugars": 39.9,
+"protein": 20.3,
+"salt": 2.9
+},
+"rating": 4.6,
+"reviewCount": 506,
+"soldCount": 654,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Trash Bags 30pk",
+"sku": "SKU-1096",
+"barcode": "6398545891235",
+"categoryName": "Household & Cleaning",
+"brandName": "Ariel",
+"description": "Trash Bags 30pk from Ariel. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ariel Trash Bags 30pk - premium quality.",
+"price": 22.18,
+"compareAtPrice": 25.51,
+"discountPercentage": 10,
+"unit": "unit",
+"weight": 1.07,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15729219?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Trash Bags 30pk",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15729219?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Trash Bags 30pk",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15729219?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Trash Bags 30pk",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15729219?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 98,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"ariel",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 144,
+"fat": 29.6,
+"carbohydrates": 55.4,
+"sugars": 9.5,
+"protein": 12.4,
+"salt": 1.08
+},
+"rating": 4.8,
+"reviewCount": 732,
+"soldCount": 1172,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Floor Cleaner 1L",
+"sku": "SKU-1097",
+"barcode": "6453229411741",
+"categoryName": "Household & Cleaning",
+"brandName": "Ariel",
+"description": "Floor Cleaner 1L from Ariel. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ariel Floor Cleaner 1L - premium quality.",
+"price": 6.22,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "unit",
+"weight": 1.56,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15441189?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Floor Cleaner 1L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15441189?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Floor Cleaner 1L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15441189?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Floor Cleaner 1L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15441189?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 254,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"ariel",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 95,
+"fat": 3.8,
+"carbohydrates": 22.2,
+"sugars": 3.0,
+"protein": 11.6,
+"salt": 1.55
+},
+"rating": 3.7,
+"reviewCount": 411,
+"soldCount": 262,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Sponges 5pk",
+"sku": "SKU-1098",
+"barcode": "6169728956268",
+"categoryName": "Household & Cleaning",
+"brandName": "Johnsons",
+"description": "Sponges 5pk from Johnsons. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Johnsons Sponges 5pk - premium quality.",
+"price": 8.24,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "unit",
+"weight": 0.68,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15950093?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Sponges 5pk",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15950093?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Sponges 5pk",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15950093?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Sponges 5pk",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15950093?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 72,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"johnsons",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 185,
+"fat": 9.7,
+"carbohydrates": 49.7,
+"sugars": 13.8,
+"protein": 23.5,
+"salt": 2.68
+},
+"rating": 4.2,
+"reviewCount": 60,
+"soldCount": 1732,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Bleach 1L",
+"sku": "SKU-1099",
+"barcode": "6187436613779",
+"categoryName": "Household & Cleaning",
+"brandName": "Ariel",
+"description": "Bleach 1L from Ariel. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ariel Bleach 1L - premium quality.",
+"price": 11.82,
+"compareAtPrice": 13.59,
+"discountPercentage": 10,
+"unit": "unit",
+"weight": 1.22,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15239999?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Bleach 1L",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15239999?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Bleach 1L",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15239999?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Bleach 1L",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15239999?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 266,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"ariel",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 177,
+"fat": 5.1,
+"carbohydrates": 43.7,
+"sugars": 36.1,
+"protein": 8.4,
+"salt": 2.77
+},
+"rating": 4.5,
+"reviewCount": 99,
+"soldCount": 84,
+"isFeatured": false,
+"isBestSeller": true,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Air Freshener",
+"sku": "SKU-1100",
+"barcode": "6702734424712",
+"categoryName": "Household & Cleaning",
+"brandName": "PepsiCo",
+"description": "Air Freshener from PepsiCo. Premium quality household & cleaning sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "PepsiCo Air Freshener - premium quality.",
+"price": 37.91,
+"compareAtPrice": 43.6,
+"discountPercentage": 10,
+"unit": "unit",
+"weight": 0.16,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15597243?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Air Freshener",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15597243?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Air Freshener",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15597243?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Air Freshener",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15597243?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 222,
+"lowStockThreshold": 10,
+"tags": [
+"household",
+"pepsico",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 316,
+"fat": 19.3,
+"carbohydrates": 21.1,
+"sugars": 9.8,
+"protein": 20.2,
+"salt": 1.22
+},
+"rating": 4.5,
+"reviewCount": 789,
+"soldCount": 928,
+"isFeatured": true,
+"isBestSeller": true,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Shampoo 400ml",
+"sku": "SKU-1101",
+"barcode": "6946235336719",
+"categoryName": "Health & Beauty",
+"brandName": "Activia",
+"description": "Shampoo 400ml from Activia. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Activia Shampoo 400ml - premium quality.",
+"price": 17.28,
+"compareAtPrice": 22.46,
+"discountPercentage": 25,
+"unit": "unit",
+"weight": 1.46,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15801927?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Shampoo 400ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15801927?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Shampoo 400ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15801927?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Shampoo 400ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15801927?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 82,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"activia",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 373,
+"fat": 29.3,
+"carbohydrates": 9.2,
+"sugars": 14.8,
+"protein": 14.0,
+"salt": 0.96
+},
+"rating": 3.9,
+"reviewCount": 625,
+"soldCount": 955,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Body Wash 500ml",
+"sku": "SKU-1102",
+"barcode": "6953322476644",
+"categoryName": "Health & Beauty",
+"brandName": "Danone",
+"description": "Body Wash 500ml from Danone. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Danone Body Wash 500ml - premium quality.",
+"price": 12.43,
+"compareAtPrice": 15.54,
+"discountPercentage": 20,
+"unit": "unit",
+"weight": 1.81,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15218834?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Body Wash 500ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15218834?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Body Wash 500ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15218834?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Body Wash 500ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15218834?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 136,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"danone",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 355,
+"fat": 28.0,
+"carbohydrates": 50.5,
+"sugars": 7.6,
+"protein": 4.0,
+"salt": 2.99
+},
+"rating": 4.8,
+"reviewCount": 432,
+"soldCount": 956,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Toothpaste 100ml",
+"sku": "SKU-1103",
+"barcode": "6309454714700",
+"categoryName": "Health & Beauty",
+"brandName": "Hellmanns",
+"description": "Toothpaste 100ml from Hellmanns. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Hellmanns Toothpaste 100ml - premium quality.",
+"price": 20.76,
+"compareAtPrice": 22.84,
+"discountPercentage": 5,
+"unit": "unit",
+"weight": 1.04,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15825273?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Toothpaste 100ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15825273?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Toothpaste 100ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15825273?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Toothpaste 100ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15825273?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 33,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"hellmanns",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 501,
+"fat": 8.6,
+"carbohydrates": 0.6,
+"sugars": 4.3,
+"protein": 3.3,
+"salt": 0.79
+},
+"rating": 3.9,
+"reviewCount": 365,
+"soldCount": 749,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Hand Soap 250ml",
+"sku": "SKU-1104",
+"barcode": "6421222611462",
+"categoryName": "Health & Beauty",
+"brandName": "Hellmanns",
+"description": "Hand Soap 250ml from Hellmanns. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Hellmanns Hand Soap 250ml - premium quality.",
+"price": 3.18,
+"compareAtPrice": 4.29,
+"discountPercentage": 30,
+"unit": "unit",
+"weight": 1.06,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15701387?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Hand Soap 250ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15701387?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Hand Soap 250ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15701387?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Hand Soap 250ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15701387?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 156,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"hellmanns",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 306,
+"fat": 24.8,
+"carbohydrates": 43.6,
+"sugars": 24.4,
+"protein": 3.2,
+"salt": 0.29
+},
+"rating": 3.9,
+"reviewCount": 570,
+"soldCount": 764,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Deodorant Spray",
+"sku": "SKU-1105",
+"barcode": "6150490989573",
+"categoryName": "Health & Beauty",
+"brandName": "Dole",
+"description": "Deodorant Spray from Dole. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Dole Deodorant Spray - premium quality.",
+"price": 8.9,
+"compareAtPrice": 12.02,
+"discountPercentage": 30,
+"unit": "unit",
+"weight": 1.46,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15496800?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Deodorant Spray",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15496800?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Deodorant Spray",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15496800?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Deodorant Spray",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15496800?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 32,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"dole",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 505,
+"fat": 15.6,
+"carbohydrates": 10.4,
+"sugars": 35.7,
+"protein": 3.5,
+"salt": 2.79
+},
+"rating": 4.2,
+"reviewCount": 45,
+"soldCount": 652,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Face Moisturizer",
+"sku": "SKU-1106",
+"barcode": "6621519304910",
+"categoryName": "Health & Beauty",
+"brandName": "Red Bull",
+"description": "Face Moisturizer from Red Bull. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Red Bull Face Moisturizer - premium quality.",
+"price": 24.18,
+"compareAtPrice": 32.64,
+"discountPercentage": 30,
+"unit": "unit",
+"weight": 0.67,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15870602?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Face Moisturizer",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15870602?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Face Moisturizer",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15870602?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Face Moisturizer",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15870602?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 259,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"red bull",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 37,
+"fat": 11.1,
+"carbohydrates": 47.2,
+"sugars": 39.2,
+"protein": 14.6,
+"salt": 2.39
+},
+"rating": 4.8,
+"reviewCount": 549,
+"soldCount": 1485,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Sunscreen SPF50",
+"sku": "SKU-1107",
+"barcode": "6576257961395",
+"categoryName": "Health & Beauty",
+"brandName": "Lays",
+"description": "Sunscreen SPF50 from Lays. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Lays Sunscreen SPF50 - premium quality.",
+"price": 38.63,
+"compareAtPrice": 42.49,
+"discountPercentage": 5,
+"unit": "unit",
+"weight": 1.3,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15883868?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Sunscreen SPF50",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15883868?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Sunscreen SPF50",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15883868?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Sunscreen SPF50",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15883868?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 254,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"lays",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 409,
+"fat": 4.4,
+"carbohydrates": 47.7,
+"sugars": 1.3,
+"protein": 23.7,
+"salt": 0.33
+},
+"rating": 4.6,
+"reviewCount": 601,
+"soldCount": 38,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Shaving Gel",
+"sku": "SKU-1108",
+"barcode": "6935756626730",
+"categoryName": "Health & Beauty",
+"brandName": "Kinder",
+"description": "Shaving Gel from Kinder. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Kinder Shaving Gel - premium quality.",
+"price": 27.92,
+"compareAtPrice": 34.9,
+"discountPercentage": 20,
+"unit": "unit",
+"weight": 1.5,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15418338?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Shaving Gel",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15418338?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Shaving Gel",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15418338?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Shaving Gel",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15418338?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 250,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"kinder",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 83,
+"fat": 21.2,
+"carbohydrates": 36.3,
+"sugars": 22.4,
+"protein": 25.0,
+"salt": 1.44
+},
+"rating": 4.3,
+"reviewCount": 630,
+"soldCount": 771,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Hair Conditioner",
+"sku": "SKU-1109",
+"barcode": "6611083679372",
+"categoryName": "Health & Beauty",
+"brandName": "Tropicana",
+"description": "Hair Conditioner from Tropicana. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Tropicana Hair Conditioner - premium quality.",
+"price": 22.34,
+"compareAtPrice": 25.69,
+"discountPercentage": 10,
+"unit": "unit",
+"weight": 0.67,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15680070?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Hair Conditioner",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15680070?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Hair Conditioner",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15680070?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Hair Conditioner",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15680070?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 135,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"tropicana",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 324,
+"fat": 23.1,
+"carbohydrates": 49.3,
+"sugars": 27.6,
+"protein": 12.2,
+"salt": 1.44
+},
+"rating": 4.5,
+"reviewCount": 200,
+"soldCount": 1147,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Cotton Pads 100pk",
+"sku": "SKU-1110",
+"barcode": "6850208571145",
+"categoryName": "Health & Beauty",
+"brandName": "Cadbury",
+"description": "Cotton Pads 100pk from Cadbury. Premium quality health & beauty sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Cadbury Cotton Pads 100pk - premium quality.",
+"price": 12.34,
+"compareAtPrice": 16.66,
+"discountPercentage": 30,
+"unit": "unit",
+"weight": 1.63,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15470155?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Cotton Pads 100pk",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15470155?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Cotton Pads 100pk",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15470155?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Cotton Pads 100pk",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15470155?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 185,
+"lowStockThreshold": 10,
+"tags": [
+"health",
+"cadbury",
+"unit"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 317,
+"fat": 1.3,
+"carbohydrates": 66.9,
+"sugars": 3.2,
+"protein": 23.1,
+"salt": 1.97
+},
+"rating": 4.1,
+"reviewCount": 408,
+"soldCount": 1530,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Baby Diapers Size 3",
+"sku": "SKU-1111",
+"barcode": "6052580956926",
+"categoryName": "Baby & Kids",
+"brandName": "Ariel",
+"description": "Baby Diapers Size 3 from Ariel. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ariel Baby Diapers Size 3 - premium quality.",
+"price": 28.14,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 1.37,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15103419?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Baby Diapers Size 3",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15103419?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Baby Diapers Size 3",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15103419?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Baby Diapers Size 3",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15103419?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 131,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"ariel",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 251,
+"fat": 19.1,
+"carbohydrates": 3.7,
+"sugars": 16.5,
+"protein": 17.9,
+"salt": 0.3
+},
+"rating": 3.8,
+"reviewCount": 762,
+"soldCount": 1578,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Baby Wipes 72pk",
+"sku": "SKU-1112",
+"barcode": "6314912017394",
+"categoryName": "Baby & Kids",
+"brandName": "Chiquita",
+"description": "Baby Wipes 72pk from Chiquita. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Chiquita Baby Wipes 72pk - premium quality.",
+"price": 16.95,
+"compareAtPrice": 22.04,
+"discountPercentage": 25,
+"unit": "pack",
+"weight": 1.33,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15465260?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Baby Wipes 72pk",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15465260?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Baby Wipes 72pk",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15465260?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Baby Wipes 72pk",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15465260?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 156,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"chiquita",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 111,
+"fat": 19.6,
+"carbohydrates": 16.3,
+"sugars": 29.5,
+"protein": 21.3,
+"salt": 0.11
+},
+"rating": 4.3,
+"reviewCount": 208,
+"soldCount": 1887,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Infant Formula 400g",
+"sku": "SKU-1113",
+"barcode": "6042420288918",
+"categoryName": "Baby & Kids",
+"brandName": "PepsiCo",
+"description": "Infant Formula 400g from PepsiCo. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "PepsiCo Infant Formula 400g - premium quality.",
+"price": 39.79,
+"compareAtPrice": 49.74,
+"discountPercentage": 20,
+"unit": "pack",
+"weight": 0.12,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15335160?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Infant Formula 400g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15335160?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Infant Formula 400g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15335160?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Infant Formula 400g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15335160?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 157,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"pepsico",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 129,
+"fat": 27.9,
+"carbohydrates": 23.5,
+"sugars": 18.2,
+"protein": 16.0,
+"salt": 1.57
+},
+"rating": 4.7,
+"reviewCount": 194,
+"soldCount": 1821,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Baby Shampoo 300ml",
+"sku": "SKU-1114",
+"barcode": "6204949818591",
+"categoryName": "Baby & Kids",
+"brandName": "President",
+"description": "Baby Shampoo 300ml from President. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "President Baby Shampoo 300ml - premium quality.",
+"price": 32.5,
+"compareAtPrice": 39.0,
+"discountPercentage": 15,
+"unit": "pack",
+"weight": 0.13,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15472234?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Baby Shampoo 300ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15472234?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Baby Shampoo 300ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15472234?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Baby Shampoo 300ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15472234?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 140,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"president",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 365,
+"fat": 23.7,
+"carbohydrates": 39.7,
+"sugars": 30.3,
+"protein": 4.4,
+"salt": 2.57
+},
+"rating": 3.8,
+"reviewCount": 473,
+"soldCount": 1837,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Fruit Puree Pouch",
+"sku": "SKU-1115",
+"barcode": "6005360321413",
+"categoryName": "Baby & Kids",
+"brandName": "Evian",
+"description": "Fruit Puree Pouch from Evian. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Evian Fruit Puree Pouch - premium quality.",
+"price": 4.56,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 0.6,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15988372?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Fruit Puree Pouch",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15988372?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Fruit Puree Pouch",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15988372?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Fruit Puree Pouch",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15988372?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 253,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"evian",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 261,
+"fat": 13.4,
+"carbohydrates": 18.7,
+"sugars": 13.2,
+"protein": 14.6,
+"salt": 1.72
+},
+"rating": 3.9,
+"reviewCount": 147,
+"soldCount": 535,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+},
+{
+"name": "Baby Cereal 250g",
+"sku": "SKU-1116",
+"barcode": "6987512220900",
+"categoryName": "Baby & Kids",
+"brandName": "Danone",
+"description": "Baby Cereal 250g from Danone. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Danone Baby Cereal 250g - premium quality.",
+"price": 27.04,
+"compareAtPrice": 35.15,
+"discountPercentage": 25,
+"unit": "pack",
+"weight": 1.79,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15745043?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Baby Cereal 250g",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15745043?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Baby Cereal 250g",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15745043?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Baby Cereal 250g",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15745043?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 266,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"danone",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 338,
+"fat": 20.7,
+"carbohydrates": 44.7,
+"sugars": 37.6,
+"protein": 9.2,
+"salt": 0.66
+},
+"rating": 4.0,
+"reviewCount": 419,
+"soldCount": 1960,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Diaper Rash Cream",
+"sku": "SKU-1117",
+"barcode": "6733588982571",
+"categoryName": "Baby & Kids",
+"brandName": "Colgate",
+"description": "Diaper Rash Cream from Colgate. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Colgate Diaper Rash Cream - premium quality.",
+"price": 15.66,
+"compareAtPrice": 21.14,
+"discountPercentage": 30,
+"unit": "pack",
+"weight": 1.67,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15412961?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Diaper Rash Cream",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15412961?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Diaper Rash Cream",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15412961?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Diaper Rash Cream",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15412961?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 284,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"colgate",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 273,
+"fat": 20.4,
+"carbohydrates": 41.7,
+"sugars": 31.5,
+"protein": 13.1,
+"salt": 1.58
+},
+"rating": 4.9,
+"reviewCount": 779,
+"soldCount": 740,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": true
+},
+{
+"name": "Baby Lotion 200ml",
+"sku": "SKU-1118",
+"barcode": "6937712125025",
+"categoryName": "Baby & Kids",
+"brandName": "Ariel",
+"description": "Baby Lotion 200ml from Ariel. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Ariel Baby Lotion 200ml - premium quality.",
+"price": 36.14,
+"compareAtPrice": 39.75,
+"discountPercentage": 5,
+"unit": "pack",
+"weight": 1.09,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15210244?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Baby Lotion 200ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15210244?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Baby Lotion 200ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15210244?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Baby Lotion 200ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15210244?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 93,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"ariel",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 139,
+"fat": 20.4,
+"carbohydrates": 50.2,
+"sugars": 19.6,
+"protein": 22.5,
+"salt": 1.34
+},
+"rating": 4.4,
+"reviewCount": 157,
+"soldCount": 113,
+"isFeatured": false,
+"isBestSeller": false,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Toddler Snacks",
+"sku": "SKU-1119",
+"barcode": "6024581300799",
+"categoryName": "Baby & Kids",
+"brandName": "Actimel",
+"description": "Toddler Snacks from Actimel. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "Actimel Toddler Snacks - premium quality.",
+"price": 23.02,
+"compareAtPrice": 31.08,
+"discountPercentage": 30,
+"unit": "pack",
+"weight": 0.85,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15648887?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Toddler Snacks",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15648887?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Toddler Snacks",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15648887?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Toddler Snacks",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15648887?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 166,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"actimel",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 23,
+"fat": 22.4,
+"carbohydrates": 40.5,
+"sugars": 1.8,
+"protein": 8.6,
+"salt": 0.19
+},
+"rating": 4.2,
+"reviewCount": 830,
+"soldCount": 123,
+"isFeatured": false,
+"isBestSeller": true,
+"isOnDeal": true,
+"isFlashSale": false
+},
+{
+"name": "Baby Bottle 250ml",
+"sku": "SKU-1120",
+"barcode": "6420440076410",
+"categoryName": "Baby & Kids",
+"brandName": "PepsiCo",
+"description": "Baby Bottle 250ml from PepsiCo. Premium quality baby & kids sourced fresh for your everyday shopping. Carefully selected and quality-checked.",
+"shortDescription": "PepsiCo Baby Bottle 250ml - premium quality.",
+"price": 12.31,
+"compareAtPrice": null,
+"discountPercentage": 0,
+"unit": "pack",
+"weight": 0.95,
+"images": [
+{
+"url": "https://images.unsplash.com/photo-15147493?auto=format&fit=crop&w=800&q=60&sig=0",
+"alt": "Baby Bottle 250ml",
+"isPrimary": true
+},
+{
+"url": "https://images.unsplash.com/photo-15147493?auto=format&fit=crop&w=800&q=60&sig=1",
+"alt": "Baby Bottle 250ml",
+"isPrimary": false
+},
+{
+"url": "https://images.unsplash.com/photo-15147493?auto=format&fit=crop&w=800&q=60&sig=2",
+"alt": "Baby Bottle 250ml",
+"isPrimary": false
+}
+],
+"thumbnail": "https://images.unsplash.com/photo-15147493?auto=format&fit=crop&w=800&q=60&sig=0",
+"stock": 224,
+"lowStockThreshold": 10,
+"tags": [
+"baby",
+"pepsico",
+"pack"
+],
+"nutrition": {
+"servingSize": "100g",
+"calories": 406,
+"fat": 11.3,
+"carbohydrates": 47.8,
+"sugars": 26.5,
+"protein": 13.5,
+"salt": 1.96
+},
+"rating": 4.7,
+"reviewCount": 788,
+"soldCount": 712,
+"isFeatured": true,
+"isBestSeller": false,
+"isOnDeal": false,
+"isFlashSale": false
+}
+]
+}

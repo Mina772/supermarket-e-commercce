@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+**/dist/
+**/.next/
+**/build/
+**/out/
+
+# Env
+.env
+.env.local
+**/.env
+**/.env.local
+!**/.env.example
+
+# Logs
+*.log
+logs/
+**/logs/
+
+# Coverage
+coverage/
+**/coverage/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.tsbuildinfo
+
+# Uploads
+backend/uploads/*
+!backend/uploads/.gitkeep
