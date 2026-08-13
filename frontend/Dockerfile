@@ -17,5 +17,6 @@ RUN npm run build
 # ---------- Runner ----------
 FROM nginx:1.27-alpine AS runner
 COPY --from=builder /app/dist /usr/share/nginx/html
-COPY nginx.conf /etc/nginx/conf.d/default.conf
-EXPOSE 80
+COPY nginx.conf /etc/nginx/templates/default.conf.template
+ENV PORT=8080
+EXPOSE 8080
